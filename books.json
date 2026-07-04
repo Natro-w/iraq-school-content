@@ -1,0 +1,508 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-04",
+  "stages": [
+    {
+      "id": "primary",
+      "name": "المرحلة الابتدائية",
+      "name_en": "Primary",
+      "grades": [
+        {
+          "id": "grade-1",
+          "name": "الصف الأول الابتدائي",
+          "name_en": "Grade 1",
+          "subjects": [
+            {
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
+              "books": [
+                {
+                  "id": "pri-g1-arabic-p1",
+                  "title": "اللغة العربية للصف الأول الابتدائي - الجزء الأول",
+                  "title_en": "Arabic Grade 1 - Part 1",
+                  "part": 1,
+                  "parts_total": 2,
+                  "description": "كتاب القراءة للصف الأول الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 96,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/arabic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/arabic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/arabic/metadata.json",
+                  "size_bytes": 4194304
+                },
+                {
+                  "id": "pri-g1-arabic-p2",
+                  "title": "اللغة العربية للصف الأول الابتدائي - الجزء الثاني",
+                  "title_en": "Arabic Grade 1 - Part 2",
+                  "part": 2,
+                  "parts_total": 2,
+                  "description": "كتاب التمارين للصف الأول الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 80,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/arabic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/arabic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/arabic/metadata.json",
+                  "size_bytes": 3145728
+                }
+              ]
+            },
+            {
+              "id": "math",
+              "name": "الرياضيات",
+              "name_en": "Mathematics",
+              "books": [
+                {
+                  "id": "pri-g1-math-p1",
+                  "title": "الرياضيات للصف الأول الابتدائي - الجزء الأول",
+                  "title_en": "Math Grade 1 - Part 1",
+                  "part": 1,
+                  "parts_total": 2,
+                  "description": "كتاب الرياضيات للصف الأول الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 128,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/math/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/math/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/math/metadata.json",
+                  "size_bytes": 5242880
+                }
+              ]
+            },
+            {
+              "id": "science",
+              "name": "العلوم",
+              "name_en": "Science",
+              "books": [
+                {
+                  "id": "pri-g1-science",
+                  "title": "العلوم للصف الأول الابتدائي",
+                  "title_en": "Science Grade 1",
+                  "description": "كتاب العلوم للصف الأول الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 80,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/science/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/science/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/science/metadata.json",
+                  "size_bytes": 4194304
+                }
+              ]
+            },
+            {
+              "id": "islamic",
+              "name": "التربية الإسلامية",
+              "name_en": "Islamic Education",
+              "books": [
+                {
+                  "id": "pri-g1-islamic",
+                  "title": "التربية الإسلامية للصف الأول الابتدائي",
+                  "title_en": "Islamic Education Grade 1",
+                  "description": "كتاب التربية الإسلامية للصف الأول الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 64,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/islamic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/islamic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-1/islamic/metadata.json",
+                  "size_bytes": 3145728
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-2",
+          "name": "الصف الثاني الابتدائي",
+          "name_en": "Grade 2",
+          "subjects": [
+            {
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
+              "books": [
+                {
+                  "id": "pri-g2-arabic",
+                  "title": "اللغة العربية للصف الثاني الابتدائي",
+                  "title_en": "Arabic Grade 2",
+                  "description": "كتاب اللغة العربية للصف الثاني الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 120,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-2/arabic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-2/arabic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-2/arabic/metadata.json",
+                  "size_bytes": 5242880
+                }
+              ]
+            },
+            {
+              "id": "math",
+              "name": "الرياضيات",
+              "name_en": "Mathematics",
+              "books": [
+                {
+                  "id": "pri-g2-math",
+                  "title": "الرياضيات للصف الثاني الابتدائي",
+                  "title_en": "Math Grade 2",
+                  "description": "كتاب الرياضيات للصف الثاني الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 136,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-2/math/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-2/math/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-2/math/metadata.json",
+                  "size_bytes": 6291456
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-3",
+          "name": "الصف الثالث الابتدائي",
+          "name_en": "Grade 3",
+          "subjects": [
+            {
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
+              "books": [
+                {
+                  "id": "pri-g3-arabic",
+                  "title": "اللغة العربية للصف الثالث الابتدائي",
+                  "title_en": "Arabic Grade 3",
+                  "description": "كتاب اللغة العربية للصف الثالث الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 144,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-3/arabic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-3/arabic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-3/arabic/metadata.json",
+                  "size_bytes": 6291456
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-4",
+          "name": "الصف الرابع الابتدائي",
+          "name_en": "Grade 4",
+          "subjects": [
+            {
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
+              "books": [
+                {
+                  "id": "pri-g4-arabic",
+                  "title": "اللغة العربية للصف الرابع الابتدائي",
+                  "title_en": "Arabic Grade 4",
+                  "description": "كتاب اللغة العربية للصف الرابع الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 160,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-4/arabic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-4/arabic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-4/arabic/metadata.json",
+                  "size_bytes": 7340032
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-5",
+          "name": "الصف الخامس الابتدائي",
+          "name_en": "Grade 5",
+          "subjects": [
+            {
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
+              "books": [
+                {
+                  "id": "pri-g5-arabic",
+                  "title": "اللغة العربية للصف الخامس الابتدائي",
+                  "title_en": "Arabic Grade 5",
+                  "description": "كتاب اللغة العربية للصف الخامس الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 176,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-5/arabic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-5/arabic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-5/arabic/metadata.json",
+                  "size_bytes": 8388608
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-6",
+          "name": "الصف السادس الابتدائي",
+          "name_en": "Grade 6",
+          "subjects": [
+            {
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
+              "books": [
+                {
+                  "id": "pri-g6-arabic",
+                  "title": "اللغة العربية للصف السادس الابتدائي",
+                  "title_en": "Arabic Grade 6",
+                  "description": "كتاب اللغة العربية للصف السادس الابتدائي",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 192,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-6/arabic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-6/arabic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/primary/grade-6/arabic/metadata.json",
+                  "size_bytes": 9437184
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intermediate",
+      "name": "المرحلة المتوسطة",
+      "name_en": "Intermediate",
+      "grades": [
+        {
+          "id": "grade-1",
+          "name": "الصف الأول المتوسط",
+          "name_en": "Grade 1 / 7",
+          "subjects": [
+            {
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
+              "books": [
+                {
+                  "id": "int-g1-arabic",
+                  "title": "اللغة العربية للصف الأول المتوسط",
+                  "title_en": "Arabic 1st Intermediate",
+                  "description": "كتاب اللغة العربية للصف الأول المتوسط",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 208,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-1/arabic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-1/arabic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-1/arabic/metadata.json",
+                  "size_bytes": 10485760
+                }
+              ]
+            },
+            {
+              "id": "math",
+              "name": "الرياضيات",
+              "name_en": "Mathematics",
+              "books": [
+                {
+                  "id": "int-g1-math",
+                  "title": "الرياضيات للصف الأول المتوسط",
+                  "title_en": "Math 1st Intermediate",
+                  "description": "كتاب الرياضيات للصف الأول المتوسط",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 224,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-1/math/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-1/math/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-1/math/metadata.json",
+                  "size_bytes": 12582912
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-2",
+          "name": "الصف الثاني المتوسط",
+          "name_en": "Grade 2 / 8",
+          "subjects": [
+            {
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
+              "books": [
+                {
+                  "id": "int-g2-arabic",
+                  "title": "اللغة العربية للصف الثاني المتوسط",
+                  "title_en": "Arabic 2nd Intermediate",
+                  "description": "كتاب اللغة العربية للصف الثاني المتوسط",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 224,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-2/arabic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-2/arabic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-2/arabic/metadata.json",
+                  "size_bytes": 11534336
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-3",
+          "name": "الصف الثالث المتوسط",
+          "name_en": "Grade 3 / 9",
+          "subjects": [
+            {
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
+              "books": [
+                {
+                  "id": "int-g3-arabic",
+                  "title": "اللغة العربية للصف الثالث المتوسط",
+                  "title_en": "Arabic 3rd Intermediate",
+                  "description": "كتاب اللغة العربية للصف الثالث المتوسط",
+                  "authors": ["وزارة التربية العراقية"],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 240,
+                  "isbn": "",
+                  "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-3/arabic/cover.png",
+                  "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-3/arabic/book.pdf",
+                  "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/intermediate/grade-3/arabic/metadata.json",
+                  "size_bytes": 12582912
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preparatory",
+      "name": "المرحلة الإعدادية",
+      "name_en": "Preparatory",
+      "branches": [
+        {
+          "id": "scientific",
+          "name": "العلمي",
+          "name_en": "Scientific",
+          "grades": [
+            {
+              "id": "grade-4",
+              "name": "الصف الرابع الإعدادي",
+              "name_en": "Grade 4 / 10",
+              "subjects": [
+                {
+                  "id": "math",
+                  "name": "الرياضيات",
+                  "name_en": "Mathematics",
+                  "books": [
+                    {
+                      "id": "prep-sci-g4-math",
+                      "title": "الرياضيات للرابع الإعدادي - العلمي",
+                      "title_en": "Math 4th Prep - Scientific",
+                      "description": "كتاب الرياضيات للصف الرابع الإعدادي الفرع العلمي",
+                      "authors": ["وزارة التربية العراقية"],
+                      "publisher": "وزارة التربية",
+                      "year": 2024,
+                      "edition": 1,
+                      "pages": 256,
+                      "isbn": "",
+                      "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/preparatory/scientific/grade-4/math/cover.png",
+                      "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/preparatory/scientific/grade-4/math/book.pdf",
+                      "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/preparatory/scientific/grade-4/math/metadata.json",
+                      "size_bytes": 14680064
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "literary",
+          "name": "الأدبي",
+          "name_en": "Literary",
+          "grades": [
+            {
+              "id": "grade-4",
+              "name": "الصف الرابع الإعدادي",
+              "name_en": "Grade 4 / 10",
+              "subjects": [
+                {
+                  "id": "arabic",
+                  "name": "اللغة العربية",
+                  "name_en": "Arabic Language",
+                  "books": [
+                    {
+                      "id": "prep-lit-g4-arabic",
+                      "title": "اللغة العربية للرابع الإعدادي - الأدبي",
+                      "title_en": "Arabic 4th Prep - Literary",
+                      "description": "كتاب اللغة العربية للصف الرابع الإعدادي الفرع الأدبي",
+                      "authors": ["وزارة التربية العراقية"],
+                      "publisher": "وزارة التربية",
+                      "year": 2024,
+                      "edition": 1,
+                      "pages": 240,
+                      "isbn": "",
+                      "cover_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/preparatory/literary/grade-4/arabic/cover.png",
+                      "pdf_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/preparatory/literary/grade-4/arabic/book.pdf",
+                      "metadata_url": "https://raw.githubusercontent.com/Natro-w/iraq-school-content/main/books/preparatory/literary/grade-4/arabic/metadata.json",
+                      "size_bytes": 12582912
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

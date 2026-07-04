@@ -1,0 +1,108 @@
+{
+  "book_id": "pri-g1-math-p1",
+  "title": "الرياضيات للصف الأول الابتدائي - الجزء الأول",
+  "title_en": "Mathematics Grade 1 - Part 1",
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "الأعداد من 1 إلى 5",
+      "title_en": "Numbers 1 to 5",
+      "page_start": 4,
+      "page_end": 20,
+      "lesson_count": 4,
+      "lessons": [
+        {"id": "les-1-1", "title": "التعرف على الأعداد 1-5", "title_en": "Recognizing Numbers 1-5", "page": 4},
+        {"id": "les-1-2", "title": "كتابة الأعداد 1-5", "title_en": "Writing Numbers 1-5", "page": 8},
+        {"id": "les-1-3", "title": "العد", "title_en": "Counting", "page": 12},
+        {"id": "les-1-4", "title": "مقارنة الأعداد", "title_en": "Comparing Numbers", "page": 16}
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "الأعداد من 6 إلى 10",
+      "title_en": "Numbers 6 to 10",
+      "page_start": 21,
+      "page_end": 40,
+      "lesson_count": 5,
+      "lessons": [
+        {"id": "les-2-1", "title": "التعرف على الأعداد 6-10", "title_en": "Recognizing Numbers 6-10", "page": 21},
+        {"id": "les-2-2", "title": "الترتيب التصاعدي والتنازلي", "title_en": "Ascending and Descending Order", "page": 26},
+        {"id": "les-2-3", "title": "الجمع ضمن 10", "title_en": "Addition within 10", "page": 30},
+        {"id": "les-2-4", "title": "الطرح ضمن 10", "title_en": "Subtraction within 10", "page": 35},
+        {"id": "les-2-5", "title": "مراجعة", "title_en": "Review", "page": 39}
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "الأشكال الهندسية",
+      "title_en": "Geometric Shapes",
+      "page_start": 41,
+      "page_end": 55,
+      "lesson_count": 3,
+      "lessons": [
+        {"id": "les-3-1", "title": "المربع والمستطيل", "title_en": "Square and Rectangle", "page": 41},
+        {"id": "les-3-2", "title": "الدائرة والمثلث", "title_en": "Circle and Triangle", "page": 46},
+        {"id": "les-3-3", "title": "تمييز الأشكال", "title_en": "Identifying Shapes", "page": 51}
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "الأعداد من 11 إلى 20",
+      "title_en": "Numbers 11 to 20",
+      "page_start": 56,
+      "page_end": 75,
+      "lesson_count": 4,
+      "lessons": [
+        {"id": "les-4-1", "title": "العشرات والآحاد", "title_en": "Tens and Ones", "page": 56},
+        {"id": "les-4-2", "title": "الجمع ضمن 20", "title_en": "Addition within 20", "page": 61},
+        {"id": "les-4-3", "title": "الطرح ضمن 20", "title_en": "Subtraction within 20", "page": 67},
+        {"id": "les-4-4", "title": "المسائل الكلامية", "title_en": "Word Problems", "page": 72}
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "القياس",
+      "title_en": "Measurement",
+      "page_start": 76,
+      "page_end": 95,
+      "lesson_count": 3,
+      "lessons": [
+        {"id": "les-5-1", "title": "الطول", "title_en": "Length", "page": 76},
+        {"id": "les-5-2", "title": "الوزن", "title_en": "Weight", "page": 82},
+        {"id": "les-5-3", "title": "السعة", "title_en": "Capacity", "page": 88}
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "النقود",
+      "title_en": "Money",
+      "page_start": 96,
+      "page_end": 110,
+      "lesson_count": 3,
+      "lessons": [
+        {"id": "les-6-1", "title": "فئات النقود العراقية", "title_en": "Iraqi Currency Denominations", "page": 96},
+        {"id": "les-6-2", "title": "الشراء والبيع", "title_en": "Buying and Selling", "page": 102},
+        {"id": "les-6-3", "title": "حساب الباقي", "title_en": "Calculating Change", "page": 107}
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "مراجعة عامة",
+      "title_en": "General Review",
+      "page_start": 111,
+      "page_end": 128,
+      "lesson_count": 2,
+      "lessons": [
+        {"id": "les-7-1", "title": "تمارين شاملة", "title_en": "Comprehensive Exercises", "page": 111},
+        {"id": "les-7-2", "title": "اختبار الفصل", "title_en": "End of Term Test", "page": 122}
+      ]
+    }
+  ]
+}

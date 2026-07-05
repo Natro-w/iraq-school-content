@@ -1,68 +1,87 @@
-{
-  "stages": [
-    {
-      "id": "primary",
-      "subjects": [
-        {"id": "arabic", "name": "اللغة العربية", "name_en": "Arabic Language"},
-        {"id": "math", "name": "الرياضيات", "name_en": "Mathematics"},
-        {"id": "science", "name": "العلوم", "name_en": "Science"},
-        {"id": "islamic", "name": "التربية الإسلامية", "name_en": "Islamic Education"},
-        {"id": "english", "name": "اللغة الإنجليزية", "name_en": "English Language"},
-        {"id": "history", "name": "التاريخ", "name_en": "History"},
-        {"id": "geography", "name": "الجغرافية", "name_en": "Geography"},
-        {"id": "art", "name": "التربية الفنية", "name_en": "Art Education"}
-      ]
-    },
-    {
-      "id": "intermediate",
-      "subjects": [
-        {"id": "arabic", "name": "اللغة العربية", "name_en": "Arabic Language"},
-        {"id": "math", "name": "الرياضيات", "name_en": "Mathematics"},
-        {"id": "science", "name": "العلوم", "name_en": "General Science"},
-        {"id": "physics", "name": "الفيزياء", "name_en": "Physics"},
-        {"id": "chemistry", "name": "الكيمياء", "name_en": "Chemistry"},
-        {"id": "biology", "name": "الأحياء", "name_en": "Biology"},
-        {"id": "english", "name": "اللغة الإنجليزية", "name_en": "English Language"},
-        {"id": "islamic", "name": "التربية الإسلامية", "name_en": "Islamic Education"},
-        {"id": "history", "name": "التاريخ", "name_en": "History"},
-        {"id": "geography", "name": "الجغرافية", "name_en": "Geography"},
-        {"id": "computer", "name": "الحاسوب", "name_en": "Computer Science"}
-      ]
-    },
-    {
-      "id": "preparatory",
-      "branches": [
-        {
-          "id": "scientific",
-          "name": "العلمي",
-          "name_en": "Scientific",
-          "subjects": [
-            {"id": "arabic", "name": "اللغة العربية", "name_en": "Arabic Language"},
-            {"id": "english", "name": "اللغة الإنجليزية", "name_en": "English Language"},
-            {"id": "islamic", "name": "التربية الإسلامية", "name_en": "Islamic Education"},
-            {"id": "math", "name": "الرياضيات", "name_en": "Advanced Mathematics"},
-            {"id": "physics", "name": "الفيزياء", "name_en": "Physics"},
-            {"id": "chemistry", "name": "الكيمياء", "name_en": "Chemistry"},
-            {"id": "biology", "name": "الأحياء", "name_en": "Biology"},
-            {"id": "computer", "name": "الحاسوب", "name_en": "Computer Science"}
-          ]
-        },
-        {
-          "id": "literary",
-          "name": "الأدبي",
-          "name_en": "Literary",
-          "subjects": [
-            {"id": "arabic", "name": "اللغة العربية", "name_en": "Arabic Language"},
-            {"id": "english", "name": "اللغة الإنجليزية", "name_en": "English Language"},
-            {"id": "islamic", "name": "التربية الإسلامية", "name_en": "Islamic Education"},
-            {"id": "history", "name": "التاريخ", "name_en": "History"},
-            {"id": "geography", "name": "الجغرافية", "name_en": "Geography"},
-            {"id": "philosophy", "name": "الفلسفة وعلم النفس", "name_en": "Philosophy & Psychology"},
-            {"id": "economics", "name": "الاقتصاد", "name_en": "Economics"},
-            {"id": "computer", "name": "الحاسوب", "name_en": "Computer Science"}
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "arabic",
+    "name": "اللغة العربية",
+    "name_en": "Arabic Language"
+  },
+  {
+    "id": "arabic-grammar",
+    "name": "قواعد اللغة العربية",
+    "name_en": "Arabic Grammar"
+  },
+  {
+    "id": "english",
+    "name": "اللغة الإنكليزية",
+    "name_en": "English"
+  },
+  {
+    "id": "english-literature",
+    "name": "الأدب الإنكليزي",
+    "name_en": "English Literature"
+  },
+  {
+    "id": "french",
+    "name": "اللغة الفرنسية",
+    "name_en": "French"
+  },
+  {
+    "id": "math",
+    "name": "الرياضيات",
+    "name_en": "Mathematics"
+  },
+  {
+    "id": "science",
+    "name": "العلوم",
+    "name_en": "Science"
+  },
+  {
+    "id": "physics",
+    "name": "الفيزياء",
+    "name_en": "Physics"
+  },
+  {
+    "id": "chemistry",
+    "name": "الكيمياء",
+    "name_en": "Chemistry"
+  },
+  {
+    "id": "biology",
+    "name": "علم الأحياء",
+    "name_en": "Biology"
+  },
+  {
+    "id": "islamic",
+    "name": "التربية الإسلامية",
+    "name_en": "Islamic Education"
+  },
+  {
+    "id": "ethics",
+    "name": "التربية الأخلاقية",
+    "name_en": "Ethics"
+  },
+  {
+    "id": "social",
+    "name": "الاجتماعيات",
+    "name_en": "Social Studies"
+  },
+  {
+    "id": "computer",
+    "name": "الحاسوب",
+    "name_en": "Computer Science"
+  },
+  {
+    "id": "history",
+    "name": "التاريخ",
+    "name_en": "History"
+  },
+  {
+    "id": "geography",
+    "name": "الجغرافية",
+    "name_en": "Geography"
+  },
+  {
+    "id": "economics",
+    "name": "الاقتصاد",
+    "name_en": "Economics"
+  }
+]

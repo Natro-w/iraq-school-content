@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-07-05",
+  "updated_at": "2026-07-13",
   "stages": [
     {
       "id": "primary",
@@ -2954,6 +2954,374 @@
           "name": "الأدبي",
           "name_en": "Literary",
           "grades": [
+            {
+              "id": "grade-4",
+              "name": "الصف الرابع الإعدادي",
+              "name_en": "Grade 4 / 10",
+              "subjects": [
+                {
+                  "id": "french",
+                  "name": "اللغة الفرنسية",
+                  "name_en": "French",
+                  "books": [
+                    {
+                      "id": "prep-grade-4-lit-french-200",
+                      "title": "الفرنسي للرابع الإعدادي - المنهج الجديد",
+                      "title_en": "French 4th Prep - New",
+                      "description": "الفرنسي للرابع الإعدادي - المنهج الجديد",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/3206107189053fd813e941bc38fab460.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "arabic",
+                  "name": "اللغة العربية",
+                  "name_en": "Arabic Language",
+                  "books": [
+                    {
+                      "id": "prep-grade-4-lit-arabic-201",
+                      "title": "العربي للرابع الإعدادي - الجزء الثاني - أدبي",
+                      "title_en": "Arabic 4th Prep - Part 2 - Literary",
+                      "description": "العربي للرابع الإعدادي - الجزء الثاني - أدبي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/59e39ebd5e92a1e6db5cda64abc41a2f.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "part": 2,
+                      "parts_total": 2
+                    },
+                    {
+                      "id": "prep-grade-4-lit-arabic-202",
+                      "title": "العربي للرابع الإعدادي - الجزء الأول - أدبي",
+                      "title_en": "Arabic 4th Prep - Part 1 - Literary",
+                      "description": "العربي للرابع الإعدادي - الجزء الأول - أدبي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/8419e625ce4a2cd26ede64a091333585.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "part": 1,
+                      "parts_total": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "english",
+                  "name": "اللغة الإنكليزية",
+                  "name_en": "English",
+                  "books": [
+                    {
+                      "id": "prep-grade-4-lit-english-203",
+                      "title": "نشاط الإنكليزي للرابع الإعدادي",
+                      "title_en": "English Activity 4th Prep",
+                      "description": "نشاط الإنكليزي للرابع الإعدادي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/cbc65105faa35398bb7f702a230d6475.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0
+                    },
+                    {
+                      "id": "prep-grade-4-lit-english-204",
+                      "title": "الإنكليزي للرابع الإعدادي",
+                      "title_en": "English 4th Prep",
+                      "description": "الإنكليزي للرابع الإعدادي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/8ca822e63b1ad39e524ade7f46594041.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "math",
+                  "name": "الرياضيات",
+                  "name_en": "Mathematics",
+                  "books": [
+                    {
+                      "id": "prep-grade-4-lit-math-205",
+                      "title": "الرياضيات للرابع الإعدادي",
+                      "title_en": "Math 4th Prep",
+                      "description": "الرياضيات للرابع الإعدادي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/52f003cc6880ad231835495f85a0eb57.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "chemistry",
+                  "name": "الكيمياء",
+                  "name_en": "Chemistry",
+                  "books": [
+                    {
+                      "id": "prep-grade-4-lit-chemistry-206",
+                      "title": "الكيمياء للرابع الإعدادي",
+                      "title_en": "Chemistry 4th Prep",
+                      "description": "الكيمياء للرابع الإعدادي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/aa8b1635e3f83695ccb55f4ad41d30c7.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "physics",
+                  "name": "الفيزياء",
+                  "name_en": "Physics",
+                  "books": [
+                    {
+                      "id": "prep-grade-4-lit-physics-207",
+                      "title": "الفيزياء للرابع الإعدادي",
+                      "title_en": "Physics 4th Prep",
+                      "description": "الفيزياء للرابع الإعدادي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/cda2a99c619139e23de7555c9e9c5c4c.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "biology",
+                  "name": "علم الأحياء",
+                  "name_en": "Biology",
+                  "books": [
+                    {
+                      "id": "prep-grade-4-lit-biology-208",
+                      "title": "الأحياء للرابع الإعدادي",
+                      "title_en": "Biology 4th Prep",
+                      "description": "الأحياء للرابع الإعدادي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/7a688a3de95243c303128a2134b1a00d.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "islamic",
+                  "name": "التربية الإسلامية",
+                  "name_en": "Islamic Education",
+                  "books": [
+                    {
+                      "id": "prep-grade-4-lit-islamic-209",
+                      "title": "التربية الإسلامية للرابع الإعدادي",
+                      "title_en": "Islamic Education 4th Prep",
+                      "description": "التربية الإسلامية للرابع الإعدادي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/c1134df822014b8781b45fc8ec1be2c9.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0
+                    }
+                  ]
+                },
+                {
+                  "id": "computer",
+                  "name": "الحاسوب",
+                  "name_en": "Computer Science",
+                  "books": [
+                    {
+                      "id": "prep-grade-4-lit-computer-210",
+                      "title": "الحاسوب للرابع الإعدادي",
+                      "title_en": "Computer 4th Prep",
+                      "description": "الحاسوب للرابع الإعدادي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/45a0e28715e3221e1136d8b585fd971b.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "grade-5",
+              "name": "الصف الخامس الإعدادي",
+              "name_en": "Grade 5 / 11",
+              "subjects": [
+                {
+                  "id": "arabic",
+                  "name": "اللغة العربية",
+                  "name_en": "Arabic Language",
+                  "books": [
+                    {
+                      "id": "prep-grade-5-lit-arabic-211",
+                      "title": "العربي للخامس الإعدادي - الجزء الثاني - أدبي",
+                      "title_en": "Arabic 5th Prep - Part 2 - Literary",
+                      "description": "العربي للخامس الإعدادي - الجزء الثاني - أدبي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/710bd4f0525b29e78e8d830549108b26.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "part": 2,
+                      "parts_total": 2
+                    },
+                    {
+                      "id": "prep-grade-5-lit-arabic-212",
+                      "title": "العربي للخامس الإعدادي - الجزء الأول - أدبي",
+                      "title_en": "Arabic 5th Prep - Part 1 - Literary",
+                      "description": "العربي للخامس الإعدادي - الجزء الأول - أدبي",
+                      "authors": [
+                        "وزارة التربية العراقية"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2025,
+                      "edition": 1,
+                      "pages": 0,
+                      "isbn": "",
+                      "cover_url": "",
+                      "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/3ba8ef61479bb293f8661dae7321f054.pdf",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "part": 1,
+                      "parts_total": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "english",
+                  "name": "اللغة الإنكليزية",
+                  "name_en": "English",
+                  "books": []
+                },
+                {
+                  "id": "math",
+                  "name": "الرياضيات",
+                  "name_en": "Mathematics",
+                  "books": []
+                },
+                {
+                  "id": "islamic",
+                  "name": "التربية الإسلامية",
+                  "name_en": "Islamic Education",
+                  "books": []
+                },
+                {
+                  "id": "geography",
+                  "name": "الجغرافية",
+                  "name_en": "Geography",
+                  "books": []
+                },
+                {
+                  "id": "history",
+                  "name": "التاريخ",
+                  "name_en": "History",
+                  "books": []
+                },
+                {
+                  "id": "economics",
+                  "name": "الاقتصاد",
+                  "name_en": "Economics",
+                  "books": []
+                },
+                {
+                  "id": "computer",
+                  "name": "الحاسوب",
+                  "name_en": "Computer Science",
+                  "books": []
+                }
+              ]
+            },
             {
               "id": "grade-6",
               "name": "الصف السادس الإعدادي",

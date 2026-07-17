@@ -33,7 +33,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/3627b295cb11dd88c531181fee43ffef/ec971e71260deb1916d0966e8e5543a1.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -58,7 +60,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/27c22b4e7501052f25ad497e709badb7/23ff146b5a234aefbaab8a6dfa34971f.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -83,7 +87,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/992369a03f80d7b15c59e01d652ada7a/454787e44d8f772cc9a55f8f4183bd34.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -108,7 +114,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/b7cc067f2bf061d06075ea819bd542b2/2c8bf746bffe9c3e238ede31fe4db3ba.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -133,7 +141,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/8e14540c1b89471d87009ad36dff0fa9/2bd13501cab53ab30709a2f0f92d6452.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -158,7 +168,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/69ef41058c29ccc29657b3b2b6d6ed58/e3231027c3baa251d0c6dbb76d14d962.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             }
@@ -169,31 +181,6 @@
           "name": "الصف الثاني الابتدائي",
           "name_en": "Grade 2",
           "subjects": [
-            {
-              "id": "arabic",
-              "name": "اللغة العربية",
-              "name_en": "Arabic Language",
-              "books": [
-                {
-                  "id": "pri-grade-2-arabic-7",
-                  "title": "القراءة للصف الثاني الابتدائي",
-                  "title_en": "Arabic Reading Grade 2",
-                  "description": "القراءة للصف الثاني الابتدائي",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2024,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/56a302237c80628bc98ba32f27d81e57/5ea7631410fd844cd1e998289c976ca8.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
             {
               "id": "islamic",
               "name": "التربية الإسلامية",
@@ -215,20 +202,22 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/aeaf73be88ab9d134fd0780246bec2eb/bc00e817b2ba9c5264578941ca2fef34.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
             {
-              "id": "science",
-              "name": "العلوم",
-              "name_en": "Science",
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
               "books": [
                 {
-                  "id": "pri-grade-2-science-9",
-                  "title": "العلوم للصف الثاني الابتدائي",
-                  "title_en": "Science Grade 2",
-                  "description": "العلوم للصف الثاني الابتدائي",
+                  "id": "pri-grade-2-arabic-7",
+                  "title": "القراءة للصف الثاني الابتدائي",
+                  "title_en": "Arabic Reading Grade 2",
+                  "description": "القراءة للصف الثاني الابتدائي",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -238,34 +227,11 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/20fb569672885ce99af426083d0342b5/e0cb00d34557a9507aa58bc22d931615.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/56a302237c80628bc98ba32f27d81e57/5ea7631410fd844cd1e998289c976ca8.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "math",
-              "name": "الرياضيات",
-              "name_en": "Mathematics",
-              "books": [
-                {
-                  "id": "pri-grade-2-math-10",
-                  "title": "الرياضيات للصف الثاني الابتدائي",
-                  "title_en": "Math Grade 2",
-                  "description": "الرياضيات للصف الثاني الابتدائي",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2024,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/e079a145d40877e0777aee8f96587548/28bee3506ab4b5a63f6fcf92679e132c.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -290,7 +256,63 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/ad0530854241a99c9d90b233b200fee5/a14ebd66a34be5cfce5e65eb3c3c0e88.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "math",
+              "name": "الرياضيات",
+              "name_en": "Mathematics",
+              "books": [
+                {
+                  "id": "pri-grade-2-math-10",
+                  "title": "الرياضيات للصف الثاني الابتدائي",
+                  "title_en": "Math Grade 2",
+                  "description": "الرياضيات للصف الثاني الابتدائي",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/e079a145d40877e0777aee8f96587548/28bee3506ab4b5a63f6fcf92679e132c.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "science",
+              "name": "العلوم",
+              "name_en": "Science",
+              "books": [
+                {
+                  "id": "pri-grade-2-science-9",
+                  "title": "العلوم للصف الثاني الابتدائي",
+                  "title_en": "Science Grade 2",
+                  "description": "العلوم للصف الثاني الابتدائي",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/20fb569672885ce99af426083d0342b5/e0cb00d34557a9507aa58bc22d931615.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             }
@@ -322,57 +344,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/c8144041ddc1abc46caf4a0c6555ab4c/5d2081d1b186c7dd73bbea203800b4ed.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "english",
-              "name": "اللغة الإنكليزية",
-              "name_en": "English",
-              "books": [
-                {
-                  "id": "pri-grade-3-english-13",
-                  "title": "الإنكليزي للصف الثالث الابتدائي",
-                  "title_en": "English Grade 3",
-                  "description": "الإنكليزي للصف الثالث الابتدائي",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2024,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/d6178441daeae94c53cbebbdabcc42c1/abebd616a7729a92ebdbe1301124a23c.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "math",
-              "name": "الرياضيات",
-              "name_en": "Mathematics",
-              "books": [
-                {
-                  "id": "pri-grade-3-math-14",
-                  "title": "الرياضيات للصف الثالث الابتدائي",
-                  "title_en": "Math Grade 3",
-                  "description": "الرياضيات للصف الثالث الابتدائي",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2024,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/37bea75abc9e9677b3c7fb234a07b063/78f3c71a0a1d82323bd41d9a8224bf52.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -397,7 +371,63 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/3594976374e99892888c6de651b93a07/c910b2893f0b3806aa85be3539f19622.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "english",
+              "name": "اللغة الإنكليزية",
+              "name_en": "English",
+              "books": [
+                {
+                  "id": "pri-grade-3-english-13",
+                  "title": "الإنكليزي للصف الثالث الابتدائي",
+                  "title_en": "English Grade 3",
+                  "description": "الإنكليزي للصف الثالث الابتدائي",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/d6178441daeae94c53cbebbdabcc42c1/abebd616a7729a92ebdbe1301124a23c.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "math",
+              "name": "الرياضيات",
+              "name_en": "Mathematics",
+              "books": [
+                {
+                  "id": "pri-grade-3-math-14",
+                  "title": "الرياضيات للصف الثالث الابتدائي",
+                  "title_en": "Math Grade 3",
+                  "description": "الرياضيات للصف الثالث الابتدائي",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/37bea75abc9e9677b3c7fb234a07b063/78f3c71a0a1d82323bd41d9a8224bf52.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -422,7 +452,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/6eec406139b1ba374f3ece9276b8e705/c5e7c296c15d9f41487fa7caa1eee8f4.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             }
@@ -454,7 +486,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/5f080e674e0e0ddb2d24a7168e6d9f9d/57d57b869dd00e9ee673df8bca532986.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -479,7 +513,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/fa9c308780ccb4c2c6a1b535446381cb/74115526fa3afe474e3112249043185a.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -504,7 +540,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/720d871b3aca55eddd2e9f8dd30b4a4a/0f45439928d98a2dcb51b63ccd3f3b59.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -529,7 +567,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/9403c2228f3db028d371bf3d741b75d7/b0b3f8fdc35d2f0c2c0fd63d4bb78825.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -554,7 +594,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/40dfad4afb6fa0dac6617aaabeb9b72c/0527dc794b411b056978af9b24c06e08.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -579,7 +621,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/76a93d924edcd19ee6cdca52cb9c504f/26fbec4a89464ea5408e108ce9c46e5d.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -604,7 +648,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/7de13da112c465344d3e3109ae881fa8/2e87939378c2557e5175f6a3d8cf0593.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             }
@@ -636,7 +682,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/f5a50125ae13a96fdcdda4f60dd3b98a/4906155a1ff866b1b010667f7ca3d480.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -661,7 +709,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/57326f01f80fdfa279137a532ea2ab8b/623702716a37dc0e6c2e9060d8390959.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -686,7 +736,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/b8ecc2f5296bd8035b859c9366693271/113008ae1584f724c667394c055716ca.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -711,57 +763,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/e205fdd57f9aa40100b5861cdfeba2dc/fad2eaeeb254de1af62a3d436b39d009.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "science",
-              "name": "العلوم",
-              "name_en": "Science",
-              "books": [
-                {
-                  "id": "pri-grade-5-science-28",
-                  "title": "العلوم للصف الخامس الابتدائي",
-                  "title_en": "Science Grade 5",
-                  "description": "العلوم للصف الخامس الابتدائي",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2024,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/1a7a4323c40478f97afa26b981637b56/8e49d246f710e5c36f3be270b0858430.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "social",
-              "name": "الاجتماعيات",
-              "name_en": "Social Studies",
-              "books": [
-                {
-                  "id": "pri-grade-5-social-29",
-                  "title": "الاجتماعيات للصف الخامس الابتدائي",
-                  "title_en": "Social Studies Grade 5",
-                  "description": "الاجتماعيات للصف الخامس الابتدائي",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2024,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/e348c2779db4e6a76292e920c77cddbf/7dd2b0a164df0c50ef29c7ea011f33b6.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -786,7 +790,63 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/49bdbeeab88406ebc350cbc437794c5b/ad4b3b67f14cc6d76e43b75acde382f9.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "science",
+              "name": "العلوم",
+              "name_en": "Science",
+              "books": [
+                {
+                  "id": "pri-grade-5-science-28",
+                  "title": "العلوم للصف الخامس الابتدائي",
+                  "title_en": "Science Grade 5",
+                  "description": "العلوم للصف الخامس الابتدائي",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/1a7a4323c40478f97afa26b981637b56/8e49d246f710e5c36f3be270b0858430.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "social",
+              "name": "الاجتماعيات",
+              "name_en": "Social Studies",
+              "books": [
+                {
+                  "id": "pri-grade-5-social-29",
+                  "title": "الاجتماعيات للصف الخامس الابتدائي",
+                  "title_en": "Social Studies Grade 5",
+                  "description": "الاجتماعيات للصف الخامس الابتدائي",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2024-11/05/e348c2779db4e6a76292e920c77cddbf/7dd2b0a164df0c50ef29c7ea011f33b6.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             }
@@ -798,15 +858,15 @@
           "name_en": "Grade 6",
           "subjects": [
             {
-              "id": "arabic-grammar",
-              "name": "قواعد اللغة العربية",
-              "name_en": "Arabic Grammar",
+              "id": "islamic",
+              "name": "التربية الإسلامية",
+              "name_en": "Islamic Education",
               "books": [
                 {
-                  "id": "pri-grade-6-arabic-grammar-38",
-                  "title": "القواعد للصف السادس الابتدائي",
-                  "title_en": "Arabic Grammar Grade 6",
-                  "description": "القواعد للصف السادس الابتدائي",
+                  "id": "pri-grade-6-islamic-45",
+                  "title": "التربية الإسلامية للصف السادس الابتدائي",
+                  "title_en": "Islamic Education Grade 6",
+                  "description": "التربية الإسلامية للصف السادس الابتدائي",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -816,52 +876,11 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/456a17554320a29f50d9ec23db286cee.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/5ab45f0fccc51f2b99323eda0becd899.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "science",
-              "name": "العلوم",
-              "name_en": "Science",
-              "books": [
-                {
-                  "id": "pri-grade-6-science-40",
-                  "title": "نشاط العلوم للصف السادس الابتدائي",
-                  "title_en": "Science Activity Grade 6",
-                  "description": "نشاط العلوم للصف السادس الابتدائي",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2024,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/d47bc49b9180e10d2d3ec63bd61b2059.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                },
-                {
-                  "id": "pri-grade-6-science-46",
-                  "title": "العلوم للصف السادس الابتدائي",
-                  "title_en": "Science Grade 6",
-                  "description": "العلوم للصف السادس الابتدائي",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2024,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/e7179840823248c7251a28f4488ad6bf.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -886,7 +905,36 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/1803d5c872a0363b6b3cf97051d9afdd.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "arabic-grammar",
+              "name": "قواعد اللغة العربية",
+              "name_en": "Arabic Grammar",
+              "books": [
+                {
+                  "id": "pri-grade-6-arabic-grammar-38",
+                  "title": "القواعد للصف السادس الابتدائي",
+                  "title_en": "Arabic Grammar Grade 6",
+                  "description": "القواعد للصف السادس الابتدائي",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/456a17554320a29f50d9ec23db286cee.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -911,7 +959,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/2d43c358491f81677ce72d40669fccf3.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 },
                 {
                   "id": "pri-grade-6-math-44",
@@ -929,7 +979,56 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/eb8ae7ca2cda228bdeb7b067efa69da3.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "science",
+              "name": "العلوم",
+              "name_en": "Science",
+              "books": [
+                {
+                  "id": "pri-grade-6-science-40",
+                  "title": "نشاط العلوم للصف السادس الابتدائي",
+                  "title_en": "Science Activity Grade 6",
+                  "description": "نشاط العلوم للصف السادس الابتدائي",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/d47bc49b9180e10d2d3ec63bd61b2059.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                },
+                {
+                  "id": "pri-grade-6-science-46",
+                  "title": "العلوم للصف السادس الابتدائي",
+                  "title_en": "Science Grade 6",
+                  "description": "العلوم للصف السادس الابتدائي",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2024,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/e7179840823248c7251a28f4488ad6bf.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -954,32 +1053,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/8af846b32200df4ea69dcb931b2f34a4.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "islamic",
-              "name": "التربية الإسلامية",
-              "name_en": "Islamic Education",
-              "books": [
-                {
-                  "id": "pri-grade-6-islamic-45",
-                  "title": "التربية الإسلامية للصف السادس الابتدائي",
-                  "title_en": "Islamic Education Grade 6",
-                  "description": "التربية الإسلامية للصف السادس الابتدائي",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2024,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/5ab45f0fccc51f2b99323eda0becd899.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             }
@@ -998,15 +1074,15 @@
           "name_en": "Grade 1 / 7",
           "subjects": [
             {
-              "id": "french",
-              "name": "اللغة الفرنسية",
-              "name_en": "French",
+              "id": "islamic",
+              "name": "التربية الإسلامية",
+              "name_en": "Islamic Education",
               "books": [
                 {
-                  "id": "int-grade-1-french-47",
-                  "title": "الفرنسي للصف الأول المتوسط - المنهج الجديد",
-                  "title_en": "French 1st Intermediate - New",
-                  "description": "الفرنسي للصف الأول المتوسط - المنهج الجديد",
+                  "id": "int-grade-1-islamic-58",
+                  "title": "التربية الإسلامية للصف الأول المتوسط",
+                  "title_en": "Islamic Education 1st Intermediate",
+                  "description": "التربية الإسلامية للصف الأول المتوسط",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1016,9 +1092,11 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/ce89838988c8a0ad31fdac1286a5bc58.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/c0d5efc602eea53af17cef2361b247d5.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -1027,26 +1105,6 @@
               "name": "اللغة العربية",
               "name_en": "Arabic Language",
               "books": [
-                {
-                  "id": "int-grade-1-arabic-48",
-                  "title": "العربي للصف الأول المتوسط - الجزء الثاني",
-                  "title_en": "Arabic 1st Intermediate - Part 2",
-                  "description": "العربي للصف الأول المتوسط - الجزء الثاني",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/35e4f97f292779851a1ccea675115279.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0,
-                  "part": 2,
-                  "parts_total": 2
-                },
                 {
                   "id": "int-grade-1-arabic-49",
                   "title": "العربي للصف الأول المتوسط - الجزء الأول",
@@ -1065,7 +1123,31 @@
                   "metadata_url": "",
                   "size_bytes": 0,
                   "part": 1,
-                  "parts_total": 2
+                  "parts_total": 2,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                },
+                {
+                  "id": "int-grade-1-arabic-48",
+                  "title": "العربي للصف الأول المتوسط - الجزء الثاني",
+                  "title_en": "Arabic 1st Intermediate - Part 2",
+                  "description": "العربي للصف الأول المتوسط - الجزء الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/35e4f97f292779851a1ccea675115279.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "part": 2,
+                  "parts_total": 2,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -1090,7 +1172,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/06ca53ccf1a766c580f4168d1ef6c568.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 },
                 {
                   "id": "int-grade-1-english-51",
@@ -1108,20 +1192,22 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/14083805d9f5aa83d906ae1940511809.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
             {
-              "id": "chemistry",
-              "name": "الكيمياء",
-              "name_en": "Chemistry",
+              "id": "french",
+              "name": "اللغة الفرنسية",
+              "name_en": "French",
               "books": [
                 {
-                  "id": "int-grade-1-chemistry-52",
-                  "title": "الكيمياء للصف الأول المتوسط",
-                  "title_en": "Chemistry 1st Intermediate",
-                  "description": "الكيمياء للصف الأول المتوسط",
+                  "id": "int-grade-1-french-47",
+                  "title": "الفرنسي للصف الأول المتوسط - المنهج الجديد",
+                  "title_en": "French 1st Intermediate - New",
+                  "description": "الفرنسي للصف الأول المتوسط - المنهج الجديد",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1131,109 +1217,11 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/da03c109e4a4ff45a223b1ac3bd5a21b.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/ce89838988c8a0ad31fdac1286a5bc58.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "social",
-              "name": "الاجتماعيات",
-              "name_en": "Social Studies",
-              "books": [
-                {
-                  "id": "int-grade-1-social-53",
-                  "title": "الاجتماعيات للصف الأول المتوسط",
-                  "title_en": "Social Studies 1st Intermediate",
-                  "description": "الاجتماعيات للصف الأول المتوسط",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/8731b3012053782ea1a91e540f50105c.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "computer",
-              "name": "الحاسوب",
-              "name_en": "Computer Science",
-              "books": [
-                {
-                  "id": "int-grade-1-computer-54",
-                  "title": "الحاسوب للصف الأول المتوسط",
-                  "title_en": "Computer 1st Intermediate",
-                  "description": "الحاسوب للصف الأول المتوسط",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/e2db2378d865d7aa99a945cf3e058f8d.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "biology",
-              "name": "علم الأحياء",
-              "name_en": "Biology",
-              "books": [
-                {
-                  "id": "int-grade-1-biology-55",
-                  "title": "الأحياء للصف الأول المتوسط",
-                  "title_en": "Biology 1st Intermediate",
-                  "description": "الأحياء للصف الأول المتوسط",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/dec07c2a660b7842a25de24882947e47.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "physics",
-              "name": "الفيزياء",
-              "name_en": "Physics",
-              "books": [
-                {
-                  "id": "int-grade-1-physics-56",
-                  "title": "الفيزياء للصف الأول المتوسط",
-                  "title_en": "Physics 1st Intermediate",
-                  "description": "الفيزياء للصف الأول المتوسط",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/5ef10f07be295475e6515b3f5fa0a178.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -1258,20 +1246,22 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/b6441c64be0bd7059a59c4846f9eae41.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
             {
-              "id": "islamic",
-              "name": "التربية الإسلامية",
-              "name_en": "Islamic Education",
+              "id": "chemistry",
+              "name": "الكيمياء",
+              "name_en": "Chemistry",
               "books": [
                 {
-                  "id": "int-grade-1-islamic-58",
-                  "title": "التربية الإسلامية للصف الأول المتوسط",
-                  "title_en": "Islamic Education 1st Intermediate",
-                  "description": "التربية الإسلامية للصف الأول المتوسط",
+                  "id": "int-grade-1-chemistry-52",
+                  "title": "الكيمياء للصف الأول المتوسط",
+                  "title_en": "Chemistry 1st Intermediate",
+                  "description": "الكيمياء للصف الأول المتوسط",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1281,9 +1271,119 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/c0d5efc602eea53af17cef2361b247d5.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/da03c109e4a4ff45a223b1ac3bd5a21b.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "physics",
+              "name": "الفيزياء",
+              "name_en": "Physics",
+              "books": [
+                {
+                  "id": "int-grade-1-physics-56",
+                  "title": "الفيزياء للصف الأول المتوسط",
+                  "title_en": "Physics 1st Intermediate",
+                  "description": "الفيزياء للصف الأول المتوسط",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/5ef10f07be295475e6515b3f5fa0a178.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "biology",
+              "name": "علم الأحياء",
+              "name_en": "Biology",
+              "books": [
+                {
+                  "id": "int-grade-1-biology-55",
+                  "title": "الأحياء للصف الأول المتوسط",
+                  "title_en": "Biology 1st Intermediate",
+                  "description": "الأحياء للصف الأول المتوسط",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/dec07c2a660b7842a25de24882947e47.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "social",
+              "name": "الاجتماعيات",
+              "name_en": "Social Studies",
+              "books": [
+                {
+                  "id": "int-grade-1-social-53",
+                  "title": "الاجتماعيات للصف الأول المتوسط",
+                  "title_en": "Social Studies 1st Intermediate",
+                  "description": "الاجتماعيات للصف الأول المتوسط",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/8731b3012053782ea1a91e540f50105c.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "computer",
+              "name": "الحاسوب",
+              "name_en": "Computer Science",
+              "books": [
+                {
+                  "id": "int-grade-1-computer-54",
+                  "title": "الحاسوب للصف الأول المتوسط",
+                  "title_en": "Computer 1st Intermediate",
+                  "description": "الحاسوب للصف الأول المتوسط",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/e2db2378d865d7aa99a945cf3e058f8d.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             }
@@ -1295,15 +1395,15 @@
           "name_en": "Grade 2 / 8",
           "subjects": [
             {
-              "id": "french",
-              "name": "اللغة الفرنسية",
-              "name_en": "French",
+              "id": "islamic",
+              "name": "التربية الإسلامية",
+              "name_en": "Islamic Education",
               "books": [
                 {
-                  "id": "int-grade-2-french-59",
-                  "title": "الفرنسي للصف الثاني المتوسط - المنهج الجديد",
-                  "title_en": "French 2nd Intermediate - New",
-                  "description": "الفرنسي للصف الثاني المتوسط - المنهج الجديد",
+                  "id": "int-grade-2-islamic-70",
+                  "title": "التربية الإسلامية للصف الثاني المتوسط",
+                  "title_en": "Islamic Education 2nd Intermediate",
+                  "description": "التربية الإسلامية للصف الثاني المتوسط",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1313,9 +1413,11 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/ce89838988c8a0ad31fdac1286a5bc58.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/30cc52ef868601610467de4ec0941d09.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -1324,26 +1426,6 @@
               "name": "اللغة العربية",
               "name_en": "Arabic Language",
               "books": [
-                {
-                  "id": "int-grade-2-arabic-60",
-                  "title": "العربي للصف الثاني المتوسط - الجزء الثاني",
-                  "title_en": "Arabic 2nd Intermediate - Part 2",
-                  "description": "العربي للصف الثاني المتوسط - الجزء الثاني",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/1c3fc8e1676319b4a4f85f1d5363b2ea.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0,
-                  "part": 2,
-                  "parts_total": 2
-                },
                 {
                   "id": "int-grade-2-arabic-61",
                   "title": "العربي للصف الثاني المتوسط - الجزء الأول",
@@ -1362,7 +1444,31 @@
                   "metadata_url": "",
                   "size_bytes": 0,
                   "part": 1,
-                  "parts_total": 2
+                  "parts_total": 2,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                },
+                {
+                  "id": "int-grade-2-arabic-60",
+                  "title": "العربي للصف الثاني المتوسط - الجزء الثاني",
+                  "title_en": "Arabic 2nd Intermediate - Part 2",
+                  "description": "العربي للصف الثاني المتوسط - الجزء الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/1c3fc8e1676319b4a4f85f1d5363b2ea.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "part": 2,
+                  "parts_total": 2,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -1387,7 +1493,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/253cec362d806bef2e90923b0b6c0b7e.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 },
                 {
                   "id": "int-grade-2-english-63",
@@ -1405,20 +1513,22 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/3bc6e804c5b73da944eb677afab8631e.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
             {
-              "id": "chemistry",
-              "name": "الكيمياء",
-              "name_en": "Chemistry",
+              "id": "french",
+              "name": "اللغة الفرنسية",
+              "name_en": "French",
               "books": [
                 {
-                  "id": "int-grade-2-chemistry-64",
-                  "title": "الكيمياء للصف الثاني المتوسط",
-                  "title_en": "Chemistry 2nd Intermediate",
-                  "description": "الكيمياء للصف الثاني المتوسط",
+                  "id": "int-grade-2-french-59",
+                  "title": "الفرنسي للصف الثاني المتوسط - المنهج الجديد",
+                  "title_en": "French 2nd Intermediate - New",
+                  "description": "الفرنسي للصف الثاني المتوسط - المنهج الجديد",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1428,109 +1538,11 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/a8a099c655693e6c0ef9cad2cca7a498.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/ce89838988c8a0ad31fdac1286a5bc58.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "social",
-              "name": "الاجتماعيات",
-              "name_en": "Social Studies",
-              "books": [
-                {
-                  "id": "int-grade-2-social-65",
-                  "title": "الاجتماعيات للصف الثاني المتوسط",
-                  "title_en": "Social Studies 2nd Intermediate",
-                  "description": "الاجتماعيات للصف الثاني المتوسط",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/9741bb6a8fe47bc68b57a72a6733cb1e.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "computer",
-              "name": "الحاسوب",
-              "name_en": "Computer Science",
-              "books": [
-                {
-                  "id": "int-grade-2-computer-66",
-                  "title": "الحاسوب للصف الثاني المتوسط",
-                  "title_en": "Computer 2nd Intermediate",
-                  "description": "الحاسوب للصف الثاني المتوسط",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/c056da5b99f7c8471f4cc485f9f9516f.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "biology",
-              "name": "علم الأحياء",
-              "name_en": "Biology",
-              "books": [
-                {
-                  "id": "int-grade-2-biology-67",
-                  "title": "الأحياء للصف الثاني المتوسط",
-                  "title_en": "Biology 2nd Intermediate",
-                  "description": "الأحياء للصف الثاني المتوسط",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/036f0dd416d96afad121749cdde7cc07.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "physics",
-              "name": "الفيزياء",
-              "name_en": "Physics",
-              "books": [
-                {
-                  "id": "int-grade-2-physics-68",
-                  "title": "الفيزياء للصف الثاني المتوسط",
-                  "title_en": "Physics 2nd Intermediate",
-                  "description": "الفيزياء للصف الثاني المتوسط",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/eb826979e1b68e7e2591f7893881ab95.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -1555,20 +1567,22 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/6ee52ad279290cc54a62cab70e8a2049.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
             {
-              "id": "islamic",
-              "name": "التربية الإسلامية",
-              "name_en": "Islamic Education",
+              "id": "chemistry",
+              "name": "الكيمياء",
+              "name_en": "Chemistry",
               "books": [
                 {
-                  "id": "int-grade-2-islamic-70",
-                  "title": "التربية الإسلامية للصف الثاني المتوسط",
-                  "title_en": "Islamic Education 2nd Intermediate",
-                  "description": "التربية الإسلامية للصف الثاني المتوسط",
+                  "id": "int-grade-2-chemistry-64",
+                  "title": "الكيمياء للصف الثاني المتوسط",
+                  "title_en": "Chemistry 2nd Intermediate",
+                  "description": "الكيمياء للصف الثاني المتوسط",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1578,9 +1592,119 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/30cc52ef868601610467de4ec0941d09.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/a8a099c655693e6c0ef9cad2cca7a498.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "physics",
+              "name": "الفيزياء",
+              "name_en": "Physics",
+              "books": [
+                {
+                  "id": "int-grade-2-physics-68",
+                  "title": "الفيزياء للصف الثاني المتوسط",
+                  "title_en": "Physics 2nd Intermediate",
+                  "description": "الفيزياء للصف الثاني المتوسط",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/eb826979e1b68e7e2591f7893881ab95.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "biology",
+              "name": "علم الأحياء",
+              "name_en": "Biology",
+              "books": [
+                {
+                  "id": "int-grade-2-biology-67",
+                  "title": "الأحياء للصف الثاني المتوسط",
+                  "title_en": "Biology 2nd Intermediate",
+                  "description": "الأحياء للصف الثاني المتوسط",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/036f0dd416d96afad121749cdde7cc07.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "social",
+              "name": "الاجتماعيات",
+              "name_en": "Social Studies",
+              "books": [
+                {
+                  "id": "int-grade-2-social-65",
+                  "title": "الاجتماعيات للصف الثاني المتوسط",
+                  "title_en": "Social Studies 2nd Intermediate",
+                  "description": "الاجتماعيات للصف الثاني المتوسط",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/9741bb6a8fe47bc68b57a72a6733cb1e.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "computer",
+              "name": "الحاسوب",
+              "name_en": "Computer Science",
+              "books": [
+                {
+                  "id": "int-grade-2-computer-66",
+                  "title": "الحاسوب للصف الثاني المتوسط",
+                  "title_en": "Computer 2nd Intermediate",
+                  "description": "الحاسوب للصف الثاني المتوسط",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/c056da5b99f7c8471f4cc485f9f9516f.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             }
@@ -1592,15 +1716,15 @@
           "name_en": "Grade 3 / 9",
           "subjects": [
             {
-              "id": "french",
-              "name": "اللغة الفرنسية",
-              "name_en": "French",
+              "id": "islamic",
+              "name": "التربية الإسلامية",
+              "name_en": "Islamic Education",
               "books": [
                 {
-                  "id": "int-grade-3-french-71",
-                  "title": "الفرنسي للصف الثالث المتوسط - المنهج الجديد",
-                  "title_en": "French 3rd Intermediate - New",
-                  "description": "الفرنسي للصف الثالث المتوسط - المنهج الجديد",
+                  "id": "int-grade-3-islamic-80",
+                  "title": "التربية الإسلامية للصف الثالث المتوسط",
+                  "title_en": "Islamic Education 3rd Intermediate",
+                  "description": "التربية الإسلامية للصف الثالث المتوسط",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1610,15 +1734,46 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/ce89838988c8a0ad31fdac1286a5bc58.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/9344d5b440e77f1333c57090f4574d89.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "arabic",
+              "name": "اللغة العربية",
+              "name_en": "Arabic Language",
+              "books": [
+                {
+                  "id": "int-grade-3-arabic-82",
+                  "title": "العربي للصف الثالث المتوسط - الجزء الأول",
+                  "title_en": "Arabic 3rd Intermediate - Part 1",
+                  "description": "العربي للصف الثالث المتوسط - الجزء الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/292b470cf3c52672d653f97d24914f5b.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "part": 1,
+                  "parts_total": 2,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 },
                 {
-                  "id": "int-grade-3-french-72",
-                  "title": "الفرنسي للصف الثالث المتوسط - المنهج القديم",
-                  "title_en": "French 3rd Intermediate - Old",
-                  "description": "الفرنسي للصف الثالث المتوسط - المنهج القديم",
+                  "id": "int-grade-3-arabic-81",
+                  "title": "العربي للصف الثالث المتوسط - الجزء الثاني",
+                  "title_en": "Arabic 3rd Intermediate - Part 2",
+                  "description": "العربي للصف الثالث المتوسط - الجزء الثاني",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1628,9 +1783,13 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/6d7f4e69ae4e9e02a12ccbb97c8d4c91.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/9f8321f99d2910555d78614880f08512.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "part": 2,
+                  "parts_total": 2,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -1655,7 +1814,9 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/f1ce39e4525950b5f4a3a9d227fdbf12.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 },
                 {
                   "id": "int-grade-3-english-74",
@@ -1673,20 +1834,22 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/a60245b93c39817d3a7ea39555c292fb.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
             {
-              "id": "social",
-              "name": "الاجتماعيات",
-              "name_en": "Social Studies",
+              "id": "french",
+              "name": "اللغة الفرنسية",
+              "name_en": "French",
               "books": [
                 {
-                  "id": "int-grade-3-social-75",
-                  "title": "الاجتماعيات للصف الثالث المتوسط",
-                  "title_en": "Social Studies 3rd Intermediate",
-                  "description": "الاجتماعيات للصف الثالث المتوسط",
+                  "id": "int-grade-3-french-71",
+                  "title": "الفرنسي للصف الثالث المتوسط - المنهج الجديد",
+                  "title_en": "French 3rd Intermediate - New",
+                  "description": "الفرنسي للصف الثالث المتوسط - المنهج الجديد",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1696,22 +1859,17 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/c973510da1883af1fc90f2685fa8c36f.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/ce89838988c8a0ad31fdac1286a5bc58.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "chemistry",
-              "name": "الكيمياء",
-              "name_en": "Chemistry",
-              "books": [
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                },
                 {
-                  "id": "int-grade-3-chemistry-76",
-                  "title": "الكيمياء للصف الثالث المتوسط",
-                  "title_en": "Chemistry 3rd Intermediate",
-                  "description": "الكيمياء للصف الثالث المتوسط",
+                  "id": "int-grade-3-french-72",
+                  "title": "الفرنسي للصف الثالث المتوسط - المنهج القديم",
+                  "title_en": "French 3rd Intermediate - Old",
+                  "description": "الفرنسي للصف الثالث المتوسط - المنهج القديم",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1721,34 +1879,11 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/20858f561d5b3ac5f374eec3be846d5c.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/6d7f4e69ae4e9e02a12ccbb97c8d4c91.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "physics",
-              "name": "الفيزياء",
-              "name_en": "Physics",
-              "books": [
-                {
-                  "id": "int-grade-3-physics-77",
-                  "title": "الفيزياء للصف الثالث المتوسط",
-                  "title_en": "Physics 3rd Intermediate",
-                  "description": "الفيزياء للصف الثالث المتوسط",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/f0c3e175318460ce7ab6d8ac69c50947.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -1773,7 +1908,63 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/5af00dbaa73dde8d5dcbad24dc4767f4.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "chemistry",
+              "name": "الكيمياء",
+              "name_en": "Chemistry",
+              "books": [
+                {
+                  "id": "int-grade-3-chemistry-76",
+                  "title": "الكيمياء للصف الثالث المتوسط",
+                  "title_en": "Chemistry 3rd Intermediate",
+                  "description": "الكيمياء للصف الثالث المتوسط",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/20858f561d5b3ac5f374eec3be846d5c.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
+                }
+              ]
+            },
+            {
+              "id": "physics",
+              "name": "الفيزياء",
+              "name_en": "Physics",
+              "books": [
+                {
+                  "id": "int-grade-3-physics-77",
+                  "title": "الفيزياء للصف الثالث المتوسط",
+                  "title_en": "Physics 3rd Intermediate",
+                  "description": "الفيزياء للصف الثالث المتوسط",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/f0c3e175318460ce7ab6d8ac69c50947.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
@@ -1798,20 +1989,22 @@
                   "cover_url": "",
                   "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/b4ec718f8d081d165cafb6404077d834.pdf",
                   "metadata_url": "",
-                  "size_bytes": 0
+                  "size_bytes": 0,
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             },
             {
-              "id": "islamic",
-              "name": "التربية الإسلامية",
-              "name_en": "Islamic Education",
+              "id": "social",
+              "name": "الاجتماعيات",
+              "name_en": "Social Studies",
               "books": [
                 {
-                  "id": "int-grade-3-islamic-80",
-                  "title": "التربية الإسلامية للصف الثالث المتوسط",
-                  "title_en": "Islamic Education 3rd Intermediate",
-                  "description": "التربية الإسلامية للصف الثالث المتوسط",
+                  "id": "int-grade-3-social-75",
+                  "title": "الاجتماعيات للصف الثالث المتوسط",
+                  "title_en": "Social Studies 3rd Intermediate",
+                  "description": "الاجتماعيات للصف الثالث المتوسط",
                   "authors": [
                     "وزارة التربية العراقية"
                   ],
@@ -1821,56 +2014,11 @@
                   "pages": 0,
                   "isbn": "",
                   "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/9344d5b440e77f1333c57090f4574d89.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0
-                }
-              ]
-            },
-            {
-              "id": "arabic",
-              "name": "اللغة العربية",
-              "name_en": "Arabic Language",
-              "books": [
-                {
-                  "id": "int-grade-3-arabic-81",
-                  "title": "العربي للصف الثالث المتوسط - الجزء الثاني",
-                  "title_en": "Arabic 3rd Intermediate - Part 2",
-                  "description": "العربي للصف الثالث المتوسط - الجزء الثاني",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/9f8321f99d2910555d78614880f08512.pdf",
+                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/c973510da1883af1fc90f2685fa8c36f.pdf",
                   "metadata_url": "",
                   "size_bytes": 0,
-                  "part": 2,
-                  "parts_total": 2
-                },
-                {
-                  "id": "int-grade-3-arabic-82",
-                  "title": "العربي للصف الثالث المتوسط - الجزء الأول",
-                  "title_en": "Arabic 3rd Intermediate - Part 1",
-                  "description": "العربي للصف الثالث المتوسط - الجزء الأول",
-                  "authors": [
-                    "وزارة التربية العراقية"
-                  ],
-                  "publisher": "وزارة التربية",
-                  "year": 2025,
-                  "edition": 1,
-                  "pages": 0,
-                  "isbn": "",
-                  "cover_url": "",
-                  "pdf_url": "https://h1.iraqiteacher.com/2025-03/01/292b470cf3c52672d653f97d24914f5b.pdf",
-                  "metadata_url": "",
-                  "size_bytes": 0,
-                  "part": 1,
-                  "parts_total": 2
+                  "status": "active",
+                  "curriculum_version": "2024"
                 }
               ]
             }
@@ -3568,7 +3716,9 @@
             }
           ]
         }
-      ]
+      ],
+      "grades": []
     }
-  ]
+  ],
+  "curriculum_version": "2024"
 }

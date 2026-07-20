@@ -1,19 +1,19 @@
 {
-  "catalogVersion": 2,
-  "updatedAt": "2026-07-20T01:00:00Z",
+  "catalogVersion": 3,
+  "updatedAt": "2026-07-20T01:30:00Z",
   "minimumAppVersion": 1,
   "files": [
     {
       "name": "books.json",
       "version": 1,
-      "sha256": "19e24899ca3ea5a940945c12dbc2df030c4599893911eb86b103233ee97a690a",
-      "sizeBytes": 405066
+      "sha256": "",
+      "sizeBytes": 0
     },
     {
       "name": "notes.json",
       "version": 1,
-      "sha256": "71ab410622da24c4a7f63761593f7b1b1fbb7b0cf23bf3e96380673470ec101f",
-      "sizeBytes": 753493,
+      "sha256": "",
+      "sizeBytes": 0,
       "dependsOn": ["books.json"]
     }
   ]

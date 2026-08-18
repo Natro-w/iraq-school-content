@@ -1,0 +1,12 @@
+# Dependabot: keep pinned GitHub Actions up to date.
+# The CI workflow pins actions to full commit SHAs; Dependabot opens PRs
+# with the SHA bump when a new release tag is published.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: "ci"

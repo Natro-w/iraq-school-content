@@ -1,0 +1,16 @@
+# Normalize line endings — everything is LF (no CRLF in repo).
+* text=auto eol=lf
+
+# Binary images — no diff/text conversion.
+*.jpg binary
+*.png binary
+*.pdf binary
+
+# Generated JSON — still text (diffable).
+*.json text eol=lf
+
+# Keep shell/python scripts LF.
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf

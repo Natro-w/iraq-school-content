@@ -63,6 +63,15 @@ def check_content(r: Report) -> None:
                 grade_ids.add(g["id"])
     subject_ids = {s["id"] for s in tax["subjects"]}
 
+    for s in tax["stages"]:
+        groups = list(s.get("grades") or [])
+        for br in s.get("branches") or []:
+            groups.extend(br["grades"])
+        for g in groups:
+            for sub in g["subjects"]:
+                if not isinstance(sub, str):
+                    r.error(f"taxonomy: non-string subject entry in {s['id']}/{g['id']}: {type(sub).__name__} (run tools/ingest.py to regenerate)")
+
     seen_ids: set[str] = set()
     seen_urls: dict[str, list[str]] = {}
     books = read_manifests("books")

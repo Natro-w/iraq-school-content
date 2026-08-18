@@ -133,8 +133,9 @@ def build_taxonomy(books_json: dict, notes_json: dict, subjects: list[dict]) -> 
                 if target is None:
                     continue
                 for sub in ng["subjects"]:
-                    if sub not in target["subjects"]:
-                        target["subjects"].append(sub)
+                    sid = sub if isinstance(sub, str) else sub.get("id")
+                    if sid and sid not in target["subjects"]:
+                        target["subjects"].append(sid)
 
     tax = {
         "schema_version": SCHEMA_VERSION,

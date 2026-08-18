@@ -96,6 +96,8 @@ def find_taxonomy_path(tax: dict, m: dict) -> tuple[dict, dict, dict, dict] | No
             grades = stage["grades"]
         for grade in grades:
             if grade["id"] == m["grade_id"]:
+                if m["subject_id"] not in grade["subjects"]:
+                    return None
                 subject = next(
                     (s for s in tax["subjects"] if s["id"] == m["subject_id"]), None
                 )

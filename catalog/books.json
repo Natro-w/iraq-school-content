@@ -1,1 +1,3807 @@
-{"curriculum_version":"2024","stages":[{"grades":[{"id":"grade-1","name":"الصف الأول الابتدائي","name_en":"Grade 1","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للصف الأول الابتدائي","id":"pri-grade-1-islamic-1","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/3627b295cb11dd88c531181fee43ffef/ec971e71260deb1916d0966e8e5543a1.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للصف الأول الابتدائي","title_en":"Islamic Education Grade 1","year":2024}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"قراءتي للصف الأول الابتدائي","id":"pri-grade-1-arabic-2","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/27c22b4e7501052f25ad497e709badb7/23ff146b5a234aefbaab8a6dfa34971f.pdf","publisher":"وزارة التربية","status":"active","title":"قراءتي للصف الأول الابتدائي","title_en":"Arabic Reading Grade 1","year":2024}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للصف الأول الابتدائي","id":"pri-grade-1-english-3","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/992369a03f80d7b15c59e01d652ada7a/454787e44d8f772cc9a55f8f4183bd34.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للصف الأول الابتدائي","title_en":"English Grade 1","year":2024}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للصف الأول الابتدائي","id":"pri-grade-1-math-4","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/b7cc067f2bf061d06075ea819bd542b2/2c8bf746bffe9c3e238ede31fe4db3ba.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للصف الأول الابتدائي","title_en":"Math Grade 1","year":2024}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العلوم للصف الأول الابتدائي","id":"pri-grade-1-science-5","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/8e14540c1b89471d87009ad36dff0fa9/2bd13501cab53ab30709a2f0f92d6452.pdf","publisher":"وزارة التربية","status":"active","title":"العلوم للصف الأول الابتدائي","title_en":"Science Grade 1","year":2024}],"id":"science","name":"العلوم","name_en":"Science"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الأخلاقية للصف الأول الابتدائي","id":"pri-grade-1-ethics-6","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/69ef41058c29ccc29657b3b2b6d6ed58/e3231027c3baa251d0c6dbb76d14d962.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الأخلاقية للصف الأول الابتدائي","title_en":"Ethics Grade 1","year":2024}],"id":"ethics","name":"التربية الأخلاقية","name_en":"Ethics"}]},{"id":"grade-2","name":"الصف الثاني الابتدائي","name_en":"Grade 2","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للصف الثاني الابتدائي","id":"pri-grade-2-islamic-8","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/aeaf73be88ab9d134fd0780246bec2eb/bc00e817b2ba9c5264578941ca2fef34.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للصف الثاني الابتدائي","title_en":"Islamic Education Grade 2","year":2024}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"القراءة للصف الثاني الابتدائي","id":"pri-grade-2-arabic-7","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/56a302237c80628bc98ba32f27d81e57/5ea7631410fd844cd1e998289c976ca8.pdf","publisher":"وزارة التربية","status":"active","title":"القراءة للصف الثاني الابتدائي","title_en":"Arabic Reading Grade 2","year":2024}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للصف الثاني الابتدائي","id":"pri-grade-2-english-11","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/ad0530854241a99c9d90b233b200fee5/a14ebd66a34be5cfce5e65eb3c3c0e88.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للصف الثاني الابتدائي","title_en":"English Grade 2","year":2024}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للصف الثاني الابتدائي","id":"pri-grade-2-math-10","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/e079a145d40877e0777aee8f96587548/28bee3506ab4b5a63f6fcf92679e132c.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للصف الثاني الابتدائي","title_en":"Math Grade 2","year":2024}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العلوم للصف الثاني الابتدائي","id":"pri-grade-2-science-9","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/20fb569672885ce99af426083d0342b5/e0cb00d34557a9507aa58bc22d931615.pdf","publisher":"وزارة التربية","status":"active","title":"العلوم للصف الثاني الابتدائي","title_en":"Science Grade 2","year":2024}],"id":"science","name":"العلوم","name_en":"Science"}]},{"id":"grade-3","name":"الصف الثالث الابتدائي","name_en":"Grade 3","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للصف الثالث الابتدائي","id":"pri-grade-3-islamic-12","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/c8144041ddc1abc46caf4a0c6555ab4c/5d2081d1b186c7dd73bbea203800b4ed.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للصف الثالث الابتدائي","title_en":"Islamic Education Grade 3","year":2024}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"القراءة للصف الثالث الابتدائي","id":"pri-grade-3-arabic-15","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/3594976374e99892888c6de651b93a07/c910b2893f0b3806aa85be3539f19622.pdf","publisher":"وزارة التربية","status":"active","title":"القراءة للصف الثالث الابتدائي","title_en":"Arabic Reading Grade 3","year":2024}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للصف الثالث الابتدائي","id":"pri-grade-3-english-13","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/d6178441daeae94c53cbebbdabcc42c1/abebd616a7729a92ebdbe1301124a23c.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للصف الثالث الابتدائي","title_en":"English Grade 3","year":2024}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للصف الثالث الابتدائي","id":"pri-grade-3-math-14","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/37bea75abc9e9677b3c7fb234a07b063/78f3c71a0a1d82323bd41d9a8224bf52.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للصف الثالث الابتدائي","title_en":"Math Grade 3","year":2024}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العلوم للصف الثالث الابتدائي","id":"pri-grade-3-science-16","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/6eec406139b1ba374f3ece9276b8e705/c5e7c296c15d9f41487fa7caa1eee8f4.pdf","publisher":"وزارة التربية","status":"active","title":"العلوم للصف الثالث الابتدائي","title_en":"Science Grade 3","year":2024}],"id":"science","name":"العلوم","name_en":"Science"}]},{"id":"grade-4","name":"الصف الرابع الابتدائي","name_en":"Grade 4","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للصف الرابع الابتدائي","id":"pri-grade-4-islamic-17","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/5f080e674e0e0ddb2d24a7168e6d9f9d/57d57b869dd00e9ee673df8bca532986.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للصف الرابع الابتدائي","title_en":"Islamic Education Grade 4","year":2024}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"القراءة للصف الرابع الابتدائي","id":"pri-grade-4-arabic-18","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/fa9c308780ccb4c2c6a1b535446381cb/74115526fa3afe474e3112249043185a.pdf","publisher":"وزارة التربية","status":"active","title":"القراءة للصف الرابع الابتدائي","title_en":"Arabic Reading Grade 4","year":2024}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"القواعد للصف الرابع الابتدائي","id":"pri-grade-4-arabic-grammar-19","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/720d871b3aca55eddd2e9f8dd30b4a4a/0f45439928d98a2dcb51b63ccd3f3b59.pdf","publisher":"وزارة التربية","status":"active","title":"القواعد للصف الرابع الابتدائي","title_en":"Arabic Grammar Grade 4","year":2024}],"id":"arabic-grammar","name":"قواعد اللغة العربية","name_en":"Arabic Grammar"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للصف الرابع الابتدائي","id":"pri-grade-4-english-20","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/9403c2228f3db028d371bf3d741b75d7/b0b3f8fdc35d2f0c2c0fd63d4bb78825.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للصف الرابع الابتدائي","title_en":"English Grade 4","year":2024}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للصف الرابع الابتدائي","id":"pri-grade-4-math-21","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/40dfad4afb6fa0dac6617aaabeb9b72c/0527dc794b411b056978af9b24c06e08.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للصف الرابع الابتدائي","title_en":"Math Grade 4","year":2024}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العلوم للصف الرابع الابتدائي","id":"pri-grade-4-science-22","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/76a93d924edcd19ee6cdca52cb9c504f/26fbec4a89464ea5408e108ce9c46e5d.pdf","publisher":"وزارة التربية","status":"active","title":"العلوم للصف الرابع الابتدائي","title_en":"Science Grade 4","year":2024}],"id":"science","name":"العلوم","name_en":"Science"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الاجتماعيات للصف الرابع الابتدائي","id":"pri-grade-4-social-23","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/7de13da112c465344d3e3109ae881fa8/2e87939378c2557e5175f6a3d8cf0593.pdf","publisher":"وزارة التربية","status":"active","title":"الاجتماعيات للصف الرابع الابتدائي","title_en":"Social Studies Grade 4","year":2024}],"id":"social","name":"الاجتماعيات","name_en":"Social Studies"}]},{"id":"grade-5","name":"الصف الخامس الابتدائي","name_en":"Grade 5","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للصف الخامس الابتدائي","id":"pri-grade-5-islamic-24","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/f5a50125ae13a96fdcdda4f60dd3b98a/4906155a1ff866b1b010667f7ca3d480.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للصف الخامس الابتدائي","title_en":"Islamic Education Grade 5","year":2024}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"القراءة للصف الخامس الابتدائي","id":"pri-grade-5-arabic-25","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/57326f01f80fdfa279137a532ea2ab8b/623702716a37dc0e6c2e9060d8390959.pdf","publisher":"وزارة التربية","status":"active","title":"القراءة للصف الخامس الابتدائي","title_en":"Arabic Reading Grade 5","year":2024}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"القواعد للصف الخامس الابتدائي","id":"pri-grade-5-arabic-grammar-26","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/b8ecc2f5296bd8035b859c9366693271/113008ae1584f724c667394c055716ca.pdf","publisher":"وزارة التربية","status":"active","title":"القواعد للصف الخامس الابتدائي","title_en":"Arabic Grammar Grade 5","year":2024}],"id":"arabic-grammar","name":"قواعد اللغة العربية","name_en":"Arabic Grammar"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للصف الخامس الابتدائي","id":"pri-grade-5-english-27","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/e205fdd57f9aa40100b5861cdfeba2dc/fad2eaeeb254de1af62a3d436b39d009.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للصف الخامس الابتدائي","title_en":"English Grade 5","year":2024}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للصف الخامس الابتدائي - المنهج الجديد","id":"pri-grade-5-math-30","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/49bdbeeab88406ebc350cbc437794c5b/ad4b3b67f14cc6d76e43b75acde382f9.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للصف الخامس الابتدائي - المنهج الجديد","title_en":"Math Grade 5 - New Edition","year":2024}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العلوم للصف الخامس الابتدائي","id":"pri-grade-5-science-28","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/1a7a4323c40478f97afa26b981637b56/8e49d246f710e5c36f3be270b0858430.pdf","publisher":"وزارة التربية","status":"active","title":"العلوم للصف الخامس الابتدائي","title_en":"Science Grade 5","year":2024}],"id":"science","name":"العلوم","name_en":"Science"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الاجتماعيات للصف الخامس الابتدائي","id":"pri-grade-5-social-29","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2024-11/05/e348c2779db4e6a76292e920c77cddbf/7dd2b0a164df0c50ef29c7ea011f33b6.pdf","publisher":"وزارة التربية","status":"active","title":"الاجتماعيات للصف الخامس الابتدائي","title_en":"Social Studies Grade 5","year":2024}],"id":"social","name":"الاجتماعيات","name_en":"Social Studies"}]},{"id":"grade-6","name":"الصف السادس الابتدائي","name_en":"Grade 6","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للصف السادس الابتدائي","id":"pri-grade-6-islamic-45","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/5ab45f0fccc51f2b99323eda0becd899.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للصف السادس الابتدائي","title_en":"Islamic Education Grade 6","year":2024}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"القراءة للصف السادس الابتدائي","id":"pri-grade-6-arabic-41","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/1803d5c872a0363b6b3cf97051d9afdd.pdf","publisher":"وزارة التربية","status":"active","title":"القراءة للصف السادس الابتدائي","title_en":"Arabic Reading Grade 6","year":2024}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"القواعد للصف السادس الابتدائي","id":"pri-grade-6-arabic-grammar-38","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/456a17554320a29f50d9ec23db286cee.pdf","publisher":"وزارة التربية","status":"active","title":"القواعد للصف السادس الابتدائي","title_en":"Arabic Grammar Grade 6","year":2024}],"id":"arabic-grammar","name":"قواعد اللغة العربية","name_en":"Arabic Grammar"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"تمرينات الرياضيات للصف السادس الابتدائي","id":"pri-grade-6-math-42","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/2d43c358491f81677ce72d40669fccf3.pdf","publisher":"وزارة التربية","status":"active","title":"تمرينات الرياضيات للصف السادس الابتدائي","title_en":"Math Exercises Grade 6","year":2024},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للصف السادس الابتدائي","id":"pri-grade-6-math-44","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/eb8ae7ca2cda228bdeb7b067efa69da3.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للصف السادس الابتدائي","title_en":"Math Grade 6","year":2024}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"نشاط العلوم للصف السادس الابتدائي","id":"pri-grade-6-science-40","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/d47bc49b9180e10d2d3ec63bd61b2059.pdf","publisher":"وزارة التربية","status":"active","title":"نشاط العلوم للصف السادس الابتدائي","title_en":"Science Activity Grade 6","year":2024},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العلوم للصف السادس الابتدائي","id":"pri-grade-6-science-46","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/e7179840823248c7251a28f4488ad6bf.pdf","publisher":"وزارة التربية","status":"active","title":"العلوم للصف السادس الابتدائي","title_en":"Science Grade 6","year":2024}],"id":"science","name":"العلوم","name_en":"Science"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الاجتماعيات للصف السادس الابتدائي","id":"pri-grade-6-social-43","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/8af846b32200df4ea69dcb931b2f34a4.pdf","publisher":"وزارة التربية","status":"active","title":"الاجتماعيات للصف السادس الابتدائي","title_en":"Social Studies Grade 6","year":2024}],"id":"social","name":"الاجتماعيات","name_en":"Social Studies"}]}],"id":"primary","name":"المرحلة الابتدائية","name_en":"Primary"},{"grades":[{"id":"grade-1","name":"الصف الأول المتوسط","name_en":"Grade 1 / 7","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للصف الأول المتوسط","id":"int-grade-1-islamic-58","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/c0d5efc602eea53af17cef2361b247d5.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للصف الأول المتوسط","title_en":"Islamic Education 1st Intermediate","year":2025}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للصف الأول المتوسط - الجزء الأول","id":"int-grade-1-arabic-49","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/cdbbd8a603277c69abe004b3121b792e.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للصف الأول المتوسط - الجزء الأول","title_en":"Arabic 1st Intermediate - Part 1","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للصف الأول المتوسط - الجزء الثاني","id":"int-grade-1-arabic-48","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/35e4f97f292779851a1ccea675115279.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للصف الأول المتوسط - الجزء الثاني","title_en":"Arabic 1st Intermediate - Part 2","year":2025}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"نشاط الإنكليزي للصف الأول المتوسط","id":"int-grade-1-english-50","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/06ca53ccf1a766c580f4168d1ef6c568.pdf","publisher":"وزارة التربية","status":"active","title":"نشاط الإنكليزي للصف الأول المتوسط","title_en":"English Activity 1st Intermediate","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للصف الأول المتوسط","id":"int-grade-1-english-51","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/14083805d9f5aa83d906ae1940511809.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للصف الأول المتوسط","title_en":"English 1st Intermediate","year":2025}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفرنسي للصف الأول المتوسط - المنهج الجديد","id":"int-grade-1-french-47","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/ce89838988c8a0ad31fdac1286a5bc58.pdf","publisher":"وزارة التربية","status":"active","title":"الفرنسي للصف الأول المتوسط - المنهج الجديد","title_en":"French 1st Intermediate - New","year":2025}],"id":"french","name":"اللغة الفرنسية","name_en":"French"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للصف الأول المتوسط","id":"int-grade-1-math-57","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/b6441c64be0bd7059a59c4846f9eae41.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للصف الأول المتوسط","title_en":"Math 1st Intermediate","year":2025}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الكيمياء للصف الأول المتوسط","id":"int-grade-1-chemistry-52","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/da03c109e4a4ff45a223b1ac3bd5a21b.pdf","publisher":"وزارة التربية","status":"active","title":"الكيمياء للصف الأول المتوسط","title_en":"Chemistry 1st Intermediate","year":2025}],"id":"chemistry","name":"الكيمياء","name_en":"Chemistry"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفيزياء للصف الأول المتوسط","id":"int-grade-1-physics-56","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/5ef10f07be295475e6515b3f5fa0a178.pdf","publisher":"وزارة التربية","status":"active","title":"الفيزياء للصف الأول المتوسط","title_en":"Physics 1st Intermediate","year":2025}],"id":"physics","name":"الفيزياء","name_en":"Physics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الأحياء للصف الأول المتوسط","id":"int-grade-1-biology-55","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/dec07c2a660b7842a25de24882947e47.pdf","publisher":"وزارة التربية","status":"active","title":"الأحياء للصف الأول المتوسط","title_en":"Biology 1st Intermediate","year":2025}],"id":"biology","name":"علم الأحياء","name_en":"Biology"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الاجتماعيات للصف الأول المتوسط","id":"int-grade-1-social-53","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/8731b3012053782ea1a91e540f50105c.pdf","publisher":"وزارة التربية","status":"active","title":"الاجتماعيات للصف الأول المتوسط","title_en":"Social Studies 1st Intermediate","year":2025}],"id":"social","name":"الاجتماعيات","name_en":"Social Studies"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الحاسوب للصف الأول المتوسط","id":"int-grade-1-computer-54","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/e2db2378d865d7aa99a945cf3e058f8d.pdf","publisher":"وزارة التربية","status":"active","title":"الحاسوب للصف الأول المتوسط","title_en":"Computer 1st Intermediate","year":2025}],"id":"computer","name":"الحاسوب","name_en":"Computer Science"}]},{"id":"grade-2","name":"الصف الثاني المتوسط","name_en":"Grade 2 / 8","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للصف الثاني المتوسط","id":"int-grade-2-islamic-70","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/30cc52ef868601610467de4ec0941d09.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للصف الثاني المتوسط","title_en":"Islamic Education 2nd Intermediate","year":2025}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للصف الثاني المتوسط - الجزء الأول","id":"int-grade-2-arabic-61","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/207ab102e2b81778ec51b6dce8425d8a.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للصف الثاني المتوسط - الجزء الأول","title_en":"Arabic 2nd Intermediate - Part 1","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للصف الثاني المتوسط - الجزء الثاني","id":"int-grade-2-arabic-60","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/1c3fc8e1676319b4a4f85f1d5363b2ea.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للصف الثاني المتوسط - الجزء الثاني","title_en":"Arabic 2nd Intermediate - Part 2","year":2025}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"نشاط الإنكليزي للصف الثاني المتوسط","id":"int-grade-2-english-62","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/253cec362d806bef2e90923b0b6c0b7e.pdf","publisher":"وزارة التربية","status":"active","title":"نشاط الإنكليزي للصف الثاني المتوسط","title_en":"English Activity 2nd Intermediate","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للصف الثاني المتوسط","id":"int-grade-2-english-63","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/3bc6e804c5b73da944eb677afab8631e.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للصف الثاني المتوسط","title_en":"English 2nd Intermediate","year":2025}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفرنسي للصف الثاني المتوسط - المنهج الجديد","id":"int-grade-2-french-59","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/ce89838988c8a0ad31fdac1286a5bc58.pdf","publisher":"وزارة التربية","status":"active","title":"الفرنسي للصف الثاني المتوسط - المنهج الجديد","title_en":"French 2nd Intermediate - New","year":2025}],"id":"french","name":"اللغة الفرنسية","name_en":"French"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للصف الثاني المتوسط","id":"int-grade-2-math-69","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/6ee52ad279290cc54a62cab70e8a2049.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للصف الثاني المتوسط","title_en":"Math 2nd Intermediate","year":2025}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الكيمياء للصف الثاني المتوسط","id":"int-grade-2-chemistry-64","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/a8a099c655693e6c0ef9cad2cca7a498.pdf","publisher":"وزارة التربية","status":"active","title":"الكيمياء للصف الثاني المتوسط","title_en":"Chemistry 2nd Intermediate","year":2025}],"id":"chemistry","name":"الكيمياء","name_en":"Chemistry"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفيزياء للصف الثاني المتوسط","id":"int-grade-2-physics-68","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/eb826979e1b68e7e2591f7893881ab95.pdf","publisher":"وزارة التربية","status":"active","title":"الفيزياء للصف الثاني المتوسط","title_en":"Physics 2nd Intermediate","year":2025}],"id":"physics","name":"الفيزياء","name_en":"Physics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الأحياء للصف الثاني المتوسط","id":"int-grade-2-biology-67","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/036f0dd416d96afad121749cdde7cc07.pdf","publisher":"وزارة التربية","status":"active","title":"الأحياء للصف الثاني المتوسط","title_en":"Biology 2nd Intermediate","year":2025}],"id":"biology","name":"علم الأحياء","name_en":"Biology"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الاجتماعيات للصف الثاني المتوسط","id":"int-grade-2-social-65","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/9741bb6a8fe47bc68b57a72a6733cb1e.pdf","publisher":"وزارة التربية","status":"active","title":"الاجتماعيات للصف الثاني المتوسط","title_en":"Social Studies 2nd Intermediate","year":2025}],"id":"social","name":"الاجتماعيات","name_en":"Social Studies"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الحاسوب للصف الثاني المتوسط","id":"int-grade-2-computer-66","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/c056da5b99f7c8471f4cc485f9f9516f.pdf","publisher":"وزارة التربية","status":"active","title":"الحاسوب للصف الثاني المتوسط","title_en":"Computer 2nd Intermediate","year":2025}],"id":"computer","name":"الحاسوب","name_en":"Computer Science"}]},{"id":"grade-3","name":"الصف الثالث المتوسط","name_en":"Grade 3 / 9","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للصف الثالث المتوسط","id":"int-grade-3-islamic-80","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/9344d5b440e77f1333c57090f4574d89.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للصف الثالث المتوسط","title_en":"Islamic Education 3rd Intermediate","year":2025}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للصف الثالث المتوسط - الجزء الأول","id":"int-grade-3-arabic-82","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/292b470cf3c52672d653f97d24914f5b.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للصف الثالث المتوسط - الجزء الأول","title_en":"Arabic 3rd Intermediate - Part 1","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للصف الثالث المتوسط - الجزء الثاني","id":"int-grade-3-arabic-81","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/9f8321f99d2910555d78614880f08512.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للصف الثالث المتوسط - الجزء الثاني","title_en":"Arabic 3rd Intermediate - Part 2","year":2025}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"نشاط الإنكليزي للصف الثالث المتوسط","id":"int-grade-3-english-73","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/f1ce39e4525950b5f4a3a9d227fdbf12.pdf","publisher":"وزارة التربية","status":"active","title":"نشاط الإنكليزي للصف الثالث المتوسط","title_en":"English Activity 3rd Intermediate","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للصف الثالث المتوسط","id":"int-grade-3-english-74","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/a60245b93c39817d3a7ea39555c292fb.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للصف الثالث المتوسط","title_en":"English 3rd Intermediate","year":2025}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفرنسي للصف الثالث المتوسط - المنهج الجديد","id":"int-grade-3-french-71","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/ce89838988c8a0ad31fdac1286a5bc58.pdf","publisher":"وزارة التربية","status":"active","title":"الفرنسي للصف الثالث المتوسط - المنهج الجديد","title_en":"French 3rd Intermediate - New","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفرنسي للصف الثالث المتوسط - المنهج القديم","id":"int-grade-3-french-72","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/6d7f4e69ae4e9e02a12ccbb97c8d4c91.pdf","publisher":"وزارة التربية","status":"active","title":"الفرنسي للصف الثالث المتوسط - المنهج القديم","title_en":"French 3rd Intermediate - Old","year":2025}],"id":"french","name":"اللغة الفرنسية","name_en":"French"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للصف الثالث المتوسط","id":"int-grade-3-math-78","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/5af00dbaa73dde8d5dcbad24dc4767f4.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للصف الثالث المتوسط","title_en":"Math 3rd Intermediate","year":2025}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الكيمياء للصف الثالث المتوسط","id":"int-grade-3-chemistry-76","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/20858f561d5b3ac5f374eec3be846d5c.pdf","publisher":"وزارة التربية","status":"active","title":"الكيمياء للصف الثالث المتوسط","title_en":"Chemistry 3rd Intermediate","year":2025}],"id":"chemistry","name":"الكيمياء","name_en":"Chemistry"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفيزياء للصف الثالث المتوسط","id":"int-grade-3-physics-77","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/f0c3e175318460ce7ab6d8ac69c50947.pdf","publisher":"وزارة التربية","status":"active","title":"الفيزياء للصف الثالث المتوسط","title_en":"Physics 3rd Intermediate","year":2025}],"id":"physics","name":"الفيزياء","name_en":"Physics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الأحياء للصف الثالث المتوسط","id":"int-grade-3-biology-79","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/b4ec718f8d081d165cafb6404077d834.pdf","publisher":"وزارة التربية","status":"active","title":"الأحياء للصف الثالث المتوسط","title_en":"Biology 3rd Intermediate","year":2025}],"id":"biology","name":"علم الأحياء","name_en":"Biology"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الاجتماعيات للصف الثالث المتوسط","id":"int-grade-3-social-75","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/c973510da1883af1fc90f2685fa8c36f.pdf","publisher":"وزارة التربية","status":"active","title":"الاجتماعيات للصف الثالث المتوسط","title_en":"Social Studies 3rd Intermediate","year":2025}],"id":"social","name":"الاجتماعيات","name_en":"Social Studies"}]}],"id":"intermediate","name":"المرحلة المتوسطة","name_en":"Intermediate"},{"branches":[{"grades":[{"id":"grade-4","name":"الصف الرابع الإعدادي","name_en":"Grade 4 / 10","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفرنسي للرابع الإعدادي - المنهج الجديد","id":"prep-grade-4-french-83","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/3206107189053fd813e941bc38fab460.pdf","publisher":"وزارة التربية","status":"active","title":"الفرنسي للرابع الإعدادي - المنهج الجديد","title_en":"French 4th Prep - New","year":2025}],"id":"french","name":"اللغة الفرنسية","name_en":"French"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للرابع الإعدادي - الجزء الثاني - علمي","id":"prep-grade-4-arabic-84","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/59e39ebd5e92a1e6db5cda64abc41a2f.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للرابع الإعدادي - الجزء الثاني - علمي","title_en":"Arabic 4th Prep - Part 2 - Scientific","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للرابع الإعدادي - الجزء الأول - علمي","id":"prep-grade-4-arabic-85","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/8419e625ce4a2cd26ede64a091333585.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للرابع الإعدادي - الجزء الأول - علمي","title_en":"Arabic 4th Prep - Part 1 - Scientific","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للرابع الإعدادي - الجزء الثاني - أدبي","id":"prep-grade-4-arabic-86","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/59e39ebd5e92a1e6db5cda64abc41a2f.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للرابع الإعدادي - الجزء الثاني - أدبي","title_en":"Arabic 4th Prep - Part 2 - Literary","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للرابع الإعدادي - الجزء الأول - أدبي","id":"prep-grade-4-arabic-87","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/8419e625ce4a2cd26ede64a091333585.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للرابع الإعدادي - الجزء الأول - أدبي","title_en":"Arabic 4th Prep - Part 1 - Literary","year":2025}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"نشاط الإنكليزي للرابع الإعدادي","id":"prep-grade-4-english-88","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/cbc65105faa35398bb7f702a230d6475.pdf","publisher":"وزارة التربية","status":"active","title":"نشاط الإنكليزي للرابع الإعدادي","title_en":"English Activity 4th Prep","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للرابع الإعدادي","id":"prep-grade-4-english-89","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/8ca822e63b1ad39e524ade7f46594041.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للرابع الإعدادي","title_en":"English 4th Prep","year":2025}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للرابع الإعدادي - علمي","id":"prep-grade-4-math-90","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/52f003cc6880ad231835495f85a0eb57.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للرابع الإعدادي - علمي","title_en":"Math 4th Prep - Scientific","year":2025}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الكيمياء للرابع الإعدادي - علمي","id":"prep-grade-4-chemistry-91","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/aa8b1635e3f83695ccb55f4ad41d30c7.pdf","publisher":"وزارة التربية","status":"active","title":"الكيمياء للرابع الإعدادي - علمي","title_en":"Chemistry 4th Prep - Scientific","year":2025}],"id":"chemistry","name":"الكيمياء","name_en":"Chemistry"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفيزياء للرابع الإعدادي - علمي","id":"prep-grade-4-physics-92","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/cda2a99c619139e23de7555c9e9c5c4c.pdf","publisher":"وزارة التربية","status":"active","title":"الفيزياء للرابع الإعدادي - علمي","title_en":"Physics 4th Prep - Scientific","year":2025}],"id":"physics","name":"الفيزياء","name_en":"Physics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الأحياء للرابع الإعدادي - علمي","id":"prep-grade-4-biology-93","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/7a688a3de95243c303128a2134b1a00d.pdf","publisher":"وزارة التربية","status":"active","title":"الأحياء للرابع الإعدادي - علمي","title_en":"Biology 4th Prep - Scientific","year":2025}],"id":"biology","name":"علم الأحياء","name_en":"Biology"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الحاسوب للرابع الإعدادي - علمي","id":"prep-grade-4-computer-94","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/45a0e28715e3221e1136d8b585fd971b.pdf","publisher":"وزارة التربية","status":"active","title":"الحاسوب للرابع الإعدادي - علمي","title_en":"Computer 4th Prep - Scientific","year":2025}],"id":"computer","name":"الحاسوب","name_en":"Computer Science"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للرابع الإعدادي - علمي","id":"prep-grade-4-islamic-95","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/c1134df822014b8781b45fc8ec1be2c9.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للرابع الإعدادي - علمي","title_en":"Islamic Education 4th Prep - Scientific","year":2025}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"}]},{"id":"grade-5","name":"الصف الخامس الإعدادي","name_en":"Grade 5 / 11","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفرنسي للخامس الإعدادي - المنهج الجديد","id":"prep-grade-5-french-96","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/3206107189053fd813e941bc38fab460.pdf","publisher":"وزارة التربية","status":"active","title":"الفرنسي للخامس الإعدادي - المنهج الجديد","title_en":"French 5th Prep - New","year":2025}],"id":"french","name":"اللغة الفرنسية","name_en":"French"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للخامس الإعدادي - الجزء الثاني - علمي","id":"prep-grade-5-arabic-97","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/710bd4f0525b29e78e8d830549108b26.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للخامس الإعدادي - الجزء الثاني - علمي","title_en":"Arabic 5th Prep - Part 2 - Scientific","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للخامس الإعدادي - الجزء الأول - علمي","id":"prep-grade-5-arabic-98","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/3ba8ef61479bb293f8661dae7321f054.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للخامس الإعدادي - الجزء الأول - علمي","title_en":"Arabic 5th Prep - Part 1 - Scientific","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للخامس الإعدادي - الجزء الثاني - أدبي","id":"prep-grade-5-arabic-99","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/710bd4f0525b29e78e8d830549108b26.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للخامس الإعدادي - الجزء الثاني - أدبي","title_en":"Arabic 5th Prep - Part 2 - Literary","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للخامس الإعدادي - الجزء الأول - أدبي","id":"prep-grade-5-arabic-100","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/3ba8ef61479bb293f8661dae7321f054.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للخامس الإعدادي - الجزء الأول - أدبي","title_en":"Arabic 5th Prep - Part 1 - Literary","year":2025}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الكيمياء للخامس الإعدادي - علمي","id":"prep-grade-5-chemistry-101","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/7ec782e4eadcd12dd77fd0b52a53da84.pdf","publisher":"وزارة التربية","status":"active","title":"الكيمياء للخامس الإعدادي - علمي","title_en":"Chemistry 5th Prep - Scientific","year":2025}],"id":"chemistry","name":"الكيمياء","name_en":"Chemistry"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفيزياء للخامس الإعدادي - علمي","id":"prep-grade-5-physics-102","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/a2aedd652ed718e93f7d2df978a9a554.pdf","publisher":"وزارة التربية","status":"active","title":"الفيزياء للخامس الإعدادي - علمي","title_en":"Physics 5th Prep - Scientific","year":2025}],"id":"physics","name":"الفيزياء","name_en":"Physics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للخامس الإعدادي - علمي","id":"prep-grade-5-math-103","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/0203014ebece4b740a974c5b4746175b.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للخامس الإعدادي - علمي","title_en":"Math 5th Prep - Scientific","year":2025}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الأحياء للخامس الإعدادي - علمي","id":"prep-grade-5-biology-104","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/02f6dbb4164e061ef42a7fdd31a29231.pdf","publisher":"وزارة التربية","status":"active","title":"الأحياء للخامس الإعدادي - علمي","title_en":"Biology 5th Prep - Scientific","year":2025}],"id":"biology","name":"علم الأحياء","name_en":"Biology"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الحاسوب للخامس الإعدادي - علمي","id":"prep-grade-5-computer-105","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/20703dfd080e168e1a287aa8cbbebebd.pdf","publisher":"وزارة التربية","status":"active","title":"الحاسوب للخامس الإعدادي - علمي","title_en":"Computer 5th Prep - Scientific","year":2025}],"id":"computer","name":"الحاسوب","name_en":"Computer Science"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للخامس الإعدادي - علمي","id":"prep-grade-5-islamic-106","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/e42f6eb48fdccf2976b2956afb40ee10.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للخامس الإعدادي - علمي","title_en":"Islamic Education 5th Prep - Scientific","year":2025}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"}]},{"id":"grade-6","name":"الصف السادس الإعدادي","name_en":"Grade 6 / 12","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفرنسي للسادس الإعدادي - المنهج الجديد","id":"prep-grade-6-french-107","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/3206107189053fd813e941bc38fab460.pdf","publisher":"وزارة التربية","status":"active","title":"الفرنسي للسادس الإعدادي - المنهج الجديد","title_en":"French 6th Prep - New","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفرنسي للسادس الإعدادي - المنهج القديم","id":"prep-grade-6-french-108","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/26b933d3ff2a1d92c6164f91bf4e3dd3.pdf","publisher":"وزارة التربية","status":"active","title":"الفرنسي للسادس الإعدادي - المنهج القديم","title_en":"French 6th Prep - Old","year":2025}],"id":"french","name":"اللغة الفرنسية","name_en":"French"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للسادس الإعدادي - الجزء الثاني","id":"prep-grade-6-arabic-109","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/uploaded/2025-11/23/6922a423b0e3f.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للسادس الإعدادي - الجزء الثاني","title_en":"Arabic 6th Prep - Part 2","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للسادس الإعدادي - الجزء الأول","id":"prep-grade-6-arabic-110","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/uploaded/2025-11/23/6922a40320898.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للسادس الإعدادي - الجزء الأول","title_en":"Arabic 6th Prep - Part 1","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للسادس الإعدادي - الجزء الثاني - أدبي","id":"prep-grade-6-arabic-120","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/481b3429b0fb0358460b5ff3f9c261bd.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للسادس الإعدادي - الجزء الثاني - أدبي","title_en":"Arabic 6th Prep - Part 2 - Literary","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للسادس الإعدادي - الجزء الأول - أدبي","id":"prep-grade-6-arabic-121","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/2314001460daa823eaa9e4d060355c7b.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للسادس الإعدادي - الجزء الأول - أدبي","title_en":"Arabic 6th Prep - Part 1 - Literary","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للسادس الإعدادي - الجزء الثاني - أدبي","id":"prep-grade-6-arabic-128","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/481b3429b0fb0358460b5ff3f9c261bd.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للسادس الإعدادي - الجزء الثاني - أدبي","title_en":"Arabic 6th Prep - Part 2 - Literary (alt)","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للسادس الإعدادي - الجزء الأول - أدبي","id":"prep-grade-6-arabic-129","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/2314001460daa823eaa9e4d060355c7b.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للسادس الإعدادي - الجزء الأول - أدبي","title_en":"Arabic 6th Prep - Part 1 - Literary (alt)","year":2025}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"نشاط الإنكليزي للسادس الإعدادي","id":"prep-grade-6-english-111","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/uploaded/2025-11/20/691ee46e7e60f.pdf","publisher":"وزارة التربية","status":"active","title":"نشاط الإنكليزي للسادس الإعدادي","title_en":"English Activity 6th Prep","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للسادس الإعدادي","id":"prep-grade-6-english-112","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/uploaded/2025-11/20/691ee4289e4d4.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للسادس الإعدادي","title_en":"English 6th Prep","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"نشاط الإنكليزي للسادس الإعدادي - أدبي","id":"prep-grade-6-english-122","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/9159a25da9cdfaec8b27f28c70792282.pdf","publisher":"وزارة التربية","status":"active","title":"نشاط الإنكليزي للسادس الإعدادي - أدبي","title_en":"English Activity 6th Prep - Literary","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للسادس الإعدادي - أدبي","id":"prep-grade-6-english-123","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/ec053cf05ab355f15a77d22147774da8.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للسادس الإعدادي - أدبي","title_en":"English 6th Prep - Literary","year":2025}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الأحياء للسادس الإعدادي - علمي","id":"prep-grade-6-biology-113","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/a79ca4ca5921b874f0f73a95246ac4bc.pdf","publisher":"وزارة التربية","status":"active","title":"الأحياء للسادس الإعدادي - علمي","title_en":"Biology 6th Prep - Scientific","year":2025}],"id":"biology","name":"علم الأحياء","name_en":"Biology"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للسادس الإعدادي - علمي","id":"prep-grade-6-islamic-114","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/a32dbfe284ea31f5ac3f6c2ce4b56800.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للسادس الإعدادي - علمي","title_en":"Islamic Education 6th Prep - Scientific","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للسادس الإعدادي - أدبي","id":"prep-grade-6-islamic-130","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/a32dbfe284ea31f5ac3f6c2ce4b56800.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للسادس الإعدادي - أدبي","title_en":"Islamic Education 6th Prep - Literary","year":2025}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفيزياء للسادس الإعدادي - علمي","id":"prep-grade-6-physics-115","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/593491a97b397de8a2f6f66c0ef1a3aa.pdf","publisher":"وزارة التربية","status":"active","title":"الفيزياء للسادس الإعدادي - علمي","title_en":"Physics 6th Prep - Scientific","year":2025}],"id":"physics","name":"الفيزياء","name_en":"Physics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للسادس الإعدادي - علمي","id":"prep-grade-6-math-116","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/b8a0c14bba6d5dfc246fb0ea54cc578c.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للسادس الإعدادي - علمي","title_en":"Math 6th Prep - Scientific","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للسادس الإعدادي - أدبي","id":"prep-grade-6-math-127","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/6dfb862d5e7491b3c2866b96b0149344.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للسادس الإعدادي - أدبي","title_en":"Math 6th Prep - Literary","year":2025}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الكيمياء للسادس الإعدادي - علمي","id":"prep-grade-6-chemistry-119","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/279fefd586e4e196fe79f6ce2d2d419a.pdf","publisher":"وزارة التربية","status":"active","title":"الكيمياء للسادس الإعدادي - علمي","title_en":"Chemistry 6th Prep - Scientific","year":2025}],"id":"chemistry","name":"الكيمياء","name_en":"Chemistry"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"تمارين الأدب الإنكليزي للسادس الإعدادي","id":"prep-grade-6-english-literature-131","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/uploaded/2025-11/20/691ee4c3026cb.pdf","publisher":"وزارة التربية","status":"active","title":"تمارين الأدب الإنكليزي للسادس الإعدادي","title_en":"English Literature Exercises 6th Prep","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الأدب الإنكليزي للسادس الإعدادي","id":"prep-grade-6-english-literature-132","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/uploaded/2025-11/20/691ee4bd4aeff.pdf","publisher":"وزارة التربية","status":"active","title":"الأدب الإنكليزي للسادس الإعدادي","title_en":"English Literature 6th Prep","year":2025}],"id":"english-literature","name":"الأدب الإنكليزي","name_en":"English Literature"}]}],"id":"scientific","name":"العلمي","name_en":"Scientific"},{"grades":[{"id":"grade-4","name":"الصف الرابع الإعدادي","name_en":"Grade 4 / 10","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفرنسي للرابع الإعدادي - المنهج الجديد","id":"prep-grade-4-lit-french-200","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/3206107189053fd813e941bc38fab460.pdf","publisher":"وزارة التربية","status":"active","title":"الفرنسي للرابع الإعدادي - المنهج الجديد","title_en":"French 4th Prep - New","year":2025}],"id":"french","name":"اللغة الفرنسية","name_en":"French"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للرابع الإعدادي - الجزء الثاني - أدبي","id":"prep-grade-4-lit-arabic-201","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/59e39ebd5e92a1e6db5cda64abc41a2f.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للرابع الإعدادي - الجزء الثاني - أدبي","title_en":"Arabic 4th Prep - Part 2 - Literary","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للرابع الإعدادي - الجزء الأول - أدبي","id":"prep-grade-4-lit-arabic-202","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/8419e625ce4a2cd26ede64a091333585.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للرابع الإعدادي - الجزء الأول - أدبي","title_en":"Arabic 4th Prep - Part 1 - Literary","year":2025}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"نشاط الإنكليزي للرابع الإعدادي","id":"prep-grade-4-lit-english-203","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/cbc65105faa35398bb7f702a230d6475.pdf","publisher":"وزارة التربية","status":"active","title":"نشاط الإنكليزي للرابع الإعدادي","title_en":"English Activity 4th Prep","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الإنكليزي للرابع الإعدادي","id":"prep-grade-4-lit-english-204","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/8ca822e63b1ad39e524ade7f46594041.pdf","publisher":"وزارة التربية","status":"active","title":"الإنكليزي للرابع الإعدادي","title_en":"English 4th Prep","year":2025}],"id":"english","name":"اللغة الإنكليزية","name_en":"English"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الرياضيات للرابع الإعدادي","id":"prep-grade-4-lit-math-205","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/52f003cc6880ad231835495f85a0eb57.pdf","publisher":"وزارة التربية","status":"active","title":"الرياضيات للرابع الإعدادي","title_en":"Math 4th Prep","year":2025}],"id":"math","name":"الرياضيات","name_en":"Mathematics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الكيمياء للرابع الإعدادي","id":"prep-grade-4-lit-chemistry-206","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/aa8b1635e3f83695ccb55f4ad41d30c7.pdf","publisher":"وزارة التربية","status":"active","title":"الكيمياء للرابع الإعدادي","title_en":"Chemistry 4th Prep","year":2025}],"id":"chemistry","name":"الكيمياء","name_en":"Chemistry"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الفيزياء للرابع الإعدادي","id":"prep-grade-4-lit-physics-207","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/cda2a99c619139e23de7555c9e9c5c4c.pdf","publisher":"وزارة التربية","status":"active","title":"الفيزياء للرابع الإعدادي","title_en":"Physics 4th Prep","year":2025}],"id":"physics","name":"الفيزياء","name_en":"Physics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الأحياء للرابع الإعدادي","id":"prep-grade-4-lit-biology-208","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/7a688a3de95243c303128a2134b1a00d.pdf","publisher":"وزارة التربية","status":"active","title":"الأحياء للرابع الإعدادي","title_en":"Biology 4th Prep","year":2025}],"id":"biology","name":"علم الأحياء","name_en":"Biology"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التربية الإسلامية للرابع الإعدادي","id":"prep-grade-4-lit-islamic-209","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/c1134df822014b8781b45fc8ec1be2c9.pdf","publisher":"وزارة التربية","status":"active","title":"التربية الإسلامية للرابع الإعدادي","title_en":"Islamic Education 4th Prep","year":2025}],"id":"islamic","name":"التربية الإسلامية","name_en":"Islamic Education"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الحاسوب للرابع الإعدادي","id":"prep-grade-4-lit-computer-210","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/45a0e28715e3221e1136d8b585fd971b.pdf","publisher":"وزارة التربية","status":"active","title":"الحاسوب للرابع الإعدادي","title_en":"Computer 4th Prep","year":2025}],"id":"computer","name":"الحاسوب","name_en":"Computer Science"}]},{"id":"grade-5","name":"الصف الخامس الإعدادي","name_en":"Grade 5 / 11","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للخامس الإعدادي - الجزء الثاني - أدبي","id":"prep-grade-5-lit-arabic-211","metadata_url":"","part":2,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/710bd4f0525b29e78e8d830549108b26.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للخامس الإعدادي - الجزء الثاني - أدبي","title_en":"Arabic 5th Prep - Part 2 - Literary","year":2025},{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"العربي للخامس الإعدادي - الجزء الأول - أدبي","id":"prep-grade-5-lit-arabic-212","metadata_url":"","part":1,"parts_total":2,"pdf_url":"https://h1.iraqiteacher.com/2025-03/01/3ba8ef61479bb293f8661dae7321f054.pdf","publisher":"وزارة التربية","status":"active","title":"العربي للخامس الإعدادي - الجزء الأول - أدبي","title_en":"Arabic 5th Prep - Part 1 - Literary","year":2025}],"id":"arabic","name":"اللغة العربية","name_en":"Arabic Language"}]},{"id":"grade-6","name":"الصف السادس الإعدادي","name_en":"Grade 6 / 12","subjects":[{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الاقتصاد للسادس الإعدادي - أدبي","id":"prep-grade-6-economics-124","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/cd4fee38f8a437a27c46979bfe6335fa.pdf","publisher":"وزارة التربية","status":"active","title":"الاقتصاد للسادس الإعدادي - أدبي","title_en":"Economics 6th Prep - Literary","year":2025}],"id":"economics","name":"الاقتصاد","name_en":"Economics"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"الجغرافية للسادس الإعدادي - أدبي","id":"prep-grade-6-geography-125","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/6cd2311263b93b95f464d6a87e229fef.pdf","publisher":"وزارة التربية","status":"active","title":"الجغرافية للسادس الإعدادي - أدبي","title_en":"Geography 6th Prep - Literary","year":2025}],"id":"geography","name":"الجغرافية","name_en":"Geography"},{"books":[{"authors":["وزارة التربية العراقية"],"cover_url":"","description":"التاريخ للسادس الإعدادي - أدبي","id":"prep-grade-6-history-126","metadata_url":"","pdf_url":"https://h1.iraqiteacher.com/2025-03/01/1d221333d4e9139dcff62fad3e2ff1e0.pdf","publisher":"وزارة التربية","status":"active","title":"التاريخ للسادس الإعدادي - أدبي","title_en":"History 6th Prep - Literary","year":2025}],"id":"history","name":"التاريخ","name_en":"History"}]}],"id":"literary","name":"الأدبي","name_en":"Literary"}],"id":"preparatory","name":"المرحلة الإعدادية","name_en":"Preparatory"}],"updated_at":"2026-08-19","version":0}
+{
+  "version": 7,
+  "updated_at": "2026-08-21T17:15:01.873305Z",
+  "stages": [
+    {
+      "id": "kindergarten",
+      "name": "الروضة",
+      "name_en": "Kindergarten",
+      "grades": [
+        {
+          "id": "grade-KG",
+          "name": " KG",
+          "name_en": "Kindergarten",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "النشاطات البدنية والحركية",
+              "name_en": "النشاطات البدنية والحركية",
+              "books": [
+                {
+                  "id": "m25-kindergarten-g0-627-1909",
+                  "title": "النشاطات البدنية والحركية -  KG",
+                  "title_en": "النشاطات البدنية والحركية -  KG",
+                  "description": "النشاطات البدنية والحركية -  KG",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "kindergarten/grade-KG/النشاطات البدنية والحركية/1909.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 11368169
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-KG1",
+          "name": " KG",
+          "name_en": "Kindergarten",
+          "subjects": [
+            {
+              "id": "4b",
+              "name": "KG1",
+              "name_en": "KG1",
+              "books": [
+                {
+                  "id": "m25-kindergarten-g0-4b-1907",
+                  "title": "KG1 -  KG",
+                  "title_en": "KG1 -  KG",
+                  "description": "KG1 -  KG",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "kindergarten/grade-KG1/KG1/1907.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 8590250
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-KG2",
+          "name": " KG",
+          "name_en": "Kindergarten",
+          "subjects": [
+            {
+              "id": "4b",
+              "name": "KG2",
+              "name_en": "KG2",
+              "books": [
+                {
+                  "id": "m25-kindergarten-g0-4b-1908",
+                  "title": "KG2 -  KG",
+                  "title_en": "KG2 -  KG",
+                  "description": "KG2 -  KG",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "kindergarten/grade-KG2/KG2/1908.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 13470721
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "primary",
+      "name": "المرحلة الابتدائية",
+      "name_en": "Primary",
+      "grades": [
+        {
+          "id": "grade-1",
+          "name": "الصف الأول",
+          "name_en": "Grade 1",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "التربية الاخلاقية",
+              "name_en": "التربية الاخلاقية",
+              "books": [
+                {
+                  "id": "m25-primary-g1-627-1876",
+                  "title": "التربية الاخلاقية - الصف الأول",
+                  "title_en": "التربية الاخلاقية - الصف الأول",
+                  "description": "التربية الاخلاقية - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-1/التربية الاخلاقية/1876.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 11299040
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-primary-g1-627-1881",
+                  "title": "التربية الاسلامية - الصف الأول",
+                  "title_en": "التربية الاسلامية - الصف الأول",
+                  "description": "التربية الاسلامية - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-1/التربية الاسلامية/1881.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 4408857
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-primary-g1-627-1882",
+                  "title": "الرياضيات - الصف الأول",
+                  "title_en": "الرياضيات - الصف الأول",
+                  "description": "الرياضيات - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-1/الرياضيات/1882.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 16576639
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "العلوم",
+              "name_en": "العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g1-627-1879",
+                  "title": "العلوم - الصف الأول",
+                  "title_en": "العلوم - الصف الأول",
+                  "description": "العلوم - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-1/العلوم/1879.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 15880704
+                }
+              ]
+            },
+            {
+              "id": "62a",
+              "name": "تمرينات",
+              "name_en": "تمرينات",
+              "books": [
+                {
+                  "id": "m25-primary-g1-62a-1878",
+                  "title": "تمرينات - الصف الأول",
+                  "title_en": "تمرينات - الصف الأول",
+                  "description": "تمرينات - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-1/تمرينات/1878.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 1703112
+                }
+              ]
+            },
+            {
+              "id": "642",
+              "name": "قراءتي",
+              "name_en": "قراءتي",
+              "books": [
+                {
+                  "id": "m25-primary-g1-642-1880",
+                  "title": "قراءتي - الصف الأول",
+                  "title_en": "قراءتي - الصف الأول",
+                  "description": "قراءتي - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-1/قراءتي/1880.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 12428200
+                }
+              ]
+            },
+            {
+              "id": "646",
+              "name": "نشاط العلوم",
+              "name_en": "نشاط العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g1-646-1877",
+                  "title": "نشاط العلوم - الصف الأول",
+                  "title_en": "نشاط العلوم - الصف الأول",
+                  "description": "نشاط العلوم - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-1/نشاط العلوم/1877.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 7048392
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-2",
+          "name": "الصف الثاني",
+          "name_en": "Grade 2",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "التربية الاخلاقية",
+              "name_en": "التربية الاخلاقية",
+              "books": [
+                {
+                  "id": "m25-primary-g2-627-1870",
+                  "title": "التربية الاخلاقية - الصف الثاني",
+                  "title_en": "التربية الاخلاقية - الصف الثاني",
+                  "description": "التربية الاخلاقية - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-2/التربية الاخلاقية/1870.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 15830801
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-primary-g2-627-1872",
+                  "title": "التربية الاسلامية - الصف الثاني",
+                  "title_en": "التربية الاسلامية - الصف الثاني",
+                  "description": "التربية الاسلامية - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-2/التربية الاسلامية/1872.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 10693955
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-primary-g2-627-1874",
+                  "title": "الرياضيات - الصف الثاني",
+                  "title_en": "الرياضيات - الصف الثاني",
+                  "description": "الرياضيات - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-2/الرياضيات/1874.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 6947240
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "العلوم",
+              "name_en": "العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g2-627-1869",
+                  "title": "العلوم - الصف الثاني",
+                  "title_en": "العلوم - الصف الثاني",
+                  "description": "العلوم - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-2/العلوم/1869.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 12084542
+                }
+              ]
+            },
+            {
+              "id": "62a",
+              "name": "تمرينات",
+              "name_en": "تمرينات",
+              "books": [
+                {
+                  "id": "m25-primary-g2-62a-1873",
+                  "title": "تمرينات - الصف الثاني",
+                  "title_en": "تمرينات - الصف الثاني",
+                  "description": "تمرينات - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-2/تمرينات/1873.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2559964
+                }
+              ]
+            },
+            {
+              "id": "642",
+              "name": "قراءتي",
+              "name_en": "قراءتي",
+              "books": [
+                {
+                  "id": "m25-primary-g2-642-1871",
+                  "title": "قراءتي - الصف الثاني",
+                  "title_en": "قراءتي - الصف الثاني",
+                  "description": "قراءتي - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-2/قراءتي/1871.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 12146939
+                }
+              ]
+            },
+            {
+              "id": "646",
+              "name": "نشاط العلوم",
+              "name_en": "نشاط العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g2-646-1875",
+                  "title": "نشاط العلوم - الصف الثاني",
+                  "title_en": "نشاط العلوم - الصف الثاني",
+                  "description": "نشاط العلوم - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-2/نشاط العلوم/1875.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 9258296
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-3",
+          "name": "الصف الثالث",
+          "name_en": "Grade 3",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-primary-g3-627-1867",
+                  "title": "التربية الاسلامية - الصف الثالث",
+                  "title_en": "التربية الاسلامية - الصف الثالث",
+                  "description": "التربية الاسلامية - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-3/التربية الاسلامية/1867.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 7502517
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-primary-g3-627-1864",
+                  "title": "الرياضيات - الصف الثالث",
+                  "title_en": "الرياضيات - الصف الثالث",
+                  "description": "الرياضيات - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-3/الرياضيات/1864.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 13884894
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "العلوم",
+              "name_en": "العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g3-627-1865",
+                  "title": "العلوم - الصف الثالث",
+                  "title_en": "العلوم - الصف الثالث",
+                  "description": "العلوم - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-3/العلوم/1865.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 12280615
+                }
+              ]
+            },
+            {
+              "id": "62a",
+              "name": "تمرينات",
+              "name_en": "تمرينات",
+              "books": [
+                {
+                  "id": "m25-primary-g3-62a-1863",
+                  "title": "تمرينات - الصف الثالث",
+                  "title_en": "تمرينات - الصف الثالث",
+                  "description": "تمرينات - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-3/تمرينات/1863.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 14356146
+                }
+              ]
+            },
+            {
+              "id": "642",
+              "name": "قراءتي",
+              "name_en": "قراءتي",
+              "books": [
+                {
+                  "id": "m25-primary-g3-642-1866",
+                  "title": "قراءتي - الصف الثالث",
+                  "title_en": "قراءتي - الصف الثالث",
+                  "description": "قراءتي - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-3/قراءتي/1866.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 21989521
+                }
+              ]
+            },
+            {
+              "id": "646",
+              "name": "نشاط العلوم",
+              "name_en": "نشاط العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g3-646-1868",
+                  "title": "نشاط العلوم - الصف الثالث",
+                  "title_en": "نشاط العلوم - الصف الثالث",
+                  "description": "نشاط العلوم - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-3/نشاط العلوم/1868.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 3023144
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-4",
+          "name": "الصف الرابع",
+          "name_en": "Grade 4",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاجتماعيات",
+              "name_en": "الاجتماعيات",
+              "books": [
+                {
+                  "id": "m25-primary-g4-627-1856",
+                  "title": "الاجتماعيات - الصف الرابع",
+                  "title_en": "الاجتماعيات - الصف الرابع",
+                  "description": "الاجتماعيات - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-4/الاجتماعيات/1856.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 4958458
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-primary-g4-627-1857",
+                  "title": "التربية الاسلامية - الصف الرابع",
+                  "title_en": "التربية الاسلامية - الصف الرابع",
+                  "description": "التربية الاسلامية - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-4/التربية الاسلامية/1857.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 6794074
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-primary-g4-627-1914",
+                  "title": "الرياضيات - الصف الرابع",
+                  "title_en": "الرياضيات - الصف الرابع",
+                  "description": "الرياضيات - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-4/الرياضيات/1914.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 4017378
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "العلوم",
+              "name_en": "العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g4-627-1859",
+                  "title": "العلوم - الصف الرابع",
+                  "title_en": "العلوم - الصف الرابع",
+                  "description": "العلوم - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-4/العلوم/1859.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 14230070
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "القراءة العربية",
+              "name_en": "القراءة العربية",
+              "books": [
+                {
+                  "id": "m25-primary-g4-627-1860",
+                  "title": "القراءة العربية - الصف الرابع",
+                  "title_en": "القراءة العربية - الصف الرابع",
+                  "description": "القراءة العربية - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-4/القراءة العربية/1860.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 7394411
+                }
+              ]
+            },
+            {
+              "id": "62a",
+              "name": "تمرينات",
+              "name_en": "تمرينات",
+              "books": [
+                {
+                  "id": "m25-primary-g4-62a-1858",
+                  "title": "تمرينات - الصف الرابع",
+                  "title_en": "تمرينات - الصف الرابع",
+                  "description": "تمرينات - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-4/تمرينات/1858.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2363459
+                }
+              ]
+            },
+            {
+              "id": "642",
+              "name": "قواعد",
+              "name_en": "قواعد",
+              "books": [
+                {
+                  "id": "m25-primary-g4-642-1861",
+                  "title": "قواعد - الصف الرابع",
+                  "title_en": "قواعد - الصف الرابع",
+                  "description": "قواعد - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-4/قواعد/1861.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 13417339
+                }
+              ]
+            },
+            {
+              "id": "646",
+              "name": "نشاط العلوم",
+              "name_en": "نشاط العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g4-646-1862",
+                  "title": "نشاط العلوم - الصف الرابع",
+                  "title_en": "نشاط العلوم - الصف الرابع",
+                  "description": "نشاط العلوم - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-4/نشاط العلوم/1862.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 17343250
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-5",
+          "name": "الصف الخامس",
+          "name_en": "Grade 5",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاجتماعيات",
+              "name_en": "الاجتماعيات",
+              "books": [
+                {
+                  "id": "m25-primary-g5-627-1852",
+                  "title": "الاجتماعيات - الصف الخامس",
+                  "title_en": "الاجتماعيات - الصف الخامس",
+                  "description": "الاجتماعيات - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-5/الاجتماعيات/1852.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 8275712
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-primary-g5-627-1847",
+                  "title": "التربية الاسلامية - الصف الخامس",
+                  "title_en": "التربية الاسلامية - الصف الخامس",
+                  "description": "التربية الاسلامية - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-5/التربية الاسلامية/1847.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2807598
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-primary-g5-627-1850",
+                  "title": "الرياضيات - الصف الخامس",
+                  "title_en": "الرياضيات - الصف الخامس",
+                  "description": "الرياضيات - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-5/الرياضيات/1850.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 23430183
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "العلوم",
+              "name_en": "العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g5-627-1854",
+                  "title": "العلوم - الصف الخامس",
+                  "title_en": "العلوم - الصف الخامس",
+                  "description": "العلوم - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-5/العلوم/1854.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 14943571
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "القراءة العربية",
+              "name_en": "القراءة العربية",
+              "books": [
+                {
+                  "id": "m25-primary-g5-627-1848",
+                  "title": "القراءة العربية - الصف الخامس",
+                  "title_en": "القراءة العربية - الصف الخامس",
+                  "description": "القراءة العربية - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-5/القراءة العربية/1848.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 21384406
+                }
+              ]
+            },
+            {
+              "id": "62a",
+              "name": "تمرينات",
+              "name_en": "تمرينات",
+              "books": [
+                {
+                  "id": "m25-primary-g5-62a-1853",
+                  "title": "تمرينات - الصف الخامس",
+                  "title_en": "تمرينات - الصف الخامس",
+                  "description": "تمرينات - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-5/تمرينات/1853.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 1552152
+                }
+              ]
+            },
+            {
+              "id": "642",
+              "name": "قواعد",
+              "name_en": "قواعد",
+              "books": [
+                {
+                  "id": "m25-primary-g5-642-1849",
+                  "title": "قواعد - الصف الخامس",
+                  "title_en": "قواعد - الصف الخامس",
+                  "description": "قواعد - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-5/قواعد/1849.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 10701773
+                }
+              ]
+            },
+            {
+              "id": "646",
+              "name": "نشاط العلوم",
+              "name_en": "نشاط العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g5-646-1855",
+                  "title": "نشاط العلوم - الصف الخامس",
+                  "title_en": "نشاط العلوم - الصف الخامس",
+                  "description": "نشاط العلوم - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-5/نشاط العلوم/1855.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 3889963
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-6",
+          "name": "الصف السادس",
+          "name_en": "Grade 6",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاجتماعيات",
+              "name_en": "الاجتماعيات",
+              "books": [
+                {
+                  "id": "m25-primary-g6-627-1777",
+                  "title": "الاجتماعيات - الصف السادس",
+                  "title_en": "الاجتماعيات - الصف السادس",
+                  "description": "الاجتماعيات - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-6/الاجتماعيات/1777.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 5064216
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-primary-g6-627-1773",
+                  "title": "التربية الاسلامية - الصف السادس",
+                  "title_en": "التربية الاسلامية - الصف السادس",
+                  "description": "التربية الاسلامية - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-6/التربية الاسلامية/1773.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2283924
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-primary-g6-627-1778",
+                  "title": "الرياضيات - الصف السادس",
+                  "title_en": "الرياضيات - الصف السادس",
+                  "description": "الرياضيات - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-6/الرياضيات/1778.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 18545023
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "العلوم",
+              "name_en": "العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g6-627-1775",
+                  "title": "العلوم - الصف السادس",
+                  "title_en": "العلوم - الصف السادس",
+                  "description": "العلوم - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-6/العلوم/1775.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 15200525
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "القراءة العربية",
+              "name_en": "القراءة العربية",
+              "books": [
+                {
+                  "id": "m25-primary-g6-627-1780",
+                  "title": "القراءة العربية - الصف السادس",
+                  "title_en": "القراءة العربية - الصف السادس",
+                  "description": "القراءة العربية - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-6/القراءة العربية/1780.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 16964348
+                }
+              ]
+            },
+            {
+              "id": "62a",
+              "name": "تمرينات",
+              "name_en": "تمرينات",
+              "books": [
+                {
+                  "id": "m25-primary-g6-62a-1779",
+                  "title": "تمرينات - الصف السادس",
+                  "title_en": "تمرينات - الصف السادس",
+                  "description": "تمرينات - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-6/تمرينات/1779.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 1555138
+                }
+              ]
+            },
+            {
+              "id": "642",
+              "name": "قواعد",
+              "name_en": "قواعد",
+              "books": [
+                {
+                  "id": "m25-primary-g6-642-1774",
+                  "title": "قواعد - الصف السادس",
+                  "title_en": "قواعد - الصف السادس",
+                  "description": "قواعد - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-6/قواعد/1774.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 8440641
+                }
+              ]
+            },
+            {
+              "id": "646",
+              "name": "نشاط العلوم",
+              "name_en": "نشاط العلوم",
+              "books": [
+                {
+                  "id": "m25-primary-g6-646-1776",
+                  "title": "نشاط العلوم - الصف السادس",
+                  "title_en": "نشاط العلوم - الصف السادس",
+                  "description": "نشاط العلوم - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "primary/grade-6/نشاط العلوم/1776.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 1413356
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intermediate",
+      "name": "المرحلة المتوسطة",
+      "name_en": "Intermediate",
+      "grades": [
+        {
+          "id": "grade-1",
+          "name": "الصف الأول",
+          "name_en": "Grade 1",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاجتماعيات",
+              "name_en": "الاجتماعيات",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1844",
+                  "title": "الاجتماعيات - الصف الأول",
+                  "title_en": "الاجتماعيات - الصف الأول",
+                  "description": "الاجتماعيات - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/الاجتماعيات/1844.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 10044675
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1842",
+                  "title": "الاحياء - الصف الأول",
+                  "title_en": "الاحياء - الصف الأول",
+                  "description": "الاحياء - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/الاحياء/1842.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 13670022
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاخلاقية",
+              "name_en": "التربية الاخلاقية",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1846",
+                  "title": "التربية الاخلاقية - الصف الأول",
+                  "title_en": "التربية الاخلاقية - الصف الأول",
+                  "description": "التربية الاخلاقية - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/التربية الاخلاقية/1846.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 6778848
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1837",
+                  "title": "التربية الاسلامية - الصف الأول",
+                  "title_en": "التربية الاسلامية - الصف الأول",
+                  "description": "التربية الاسلامية - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/التربية الاسلامية/1837.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 6065370
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الحاسوب",
+              "name_en": "الحاسوب",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1843",
+                  "title": "الحاسوب - الصف الأول",
+                  "title_en": "الحاسوب - الصف الأول",
+                  "description": "الحاسوب - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/الحاسوب/1843.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 11509820
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1840",
+                  "title": "الرياضيات - الصف الأول",
+                  "title_en": "الرياضيات - الصف الأول",
+                  "description": "الرياضيات - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/الرياضيات/1840.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 11749310
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1841",
+                  "title": "الفيزياء - الصف الأول",
+                  "title_en": "الفيزياء - الصف الأول",
+                  "description": "الفيزياء - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/الفيزياء/1841.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 8113531
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1845",
+                  "title": "الكيمياء - الصف الأول",
+                  "title_en": "الكيمياء - الصف الأول",
+                  "description": "الكيمياء - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/الكيمياء/1845.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 7940652
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية ج1",
+              "name_en": "اللغة العربية ج1",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1838",
+                  "title": "اللغة العربية ج1 - الصف الأول",
+                  "title_en": "اللغة العربية ج1 - الصف الأول",
+                  "description": "اللغة العربية ج1 - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/اللغة العربية ج1/1838.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 3749731
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية ج2",
+              "name_en": "اللغة العربية ج2",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1839",
+                  "title": "اللغة العربية ج2 - الصف الأول",
+                  "title_en": "اللغة العربية ج2 - الصف الأول",
+                  "description": "اللغة العربية ج2 - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/اللغة العربية ج2/1839.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2194867
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة الفرنسية",
+              "name_en": "اللغة الفرنسية",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-627-1910",
+                  "title": "اللغة الفرنسية - الصف الأول",
+                  "title_en": "اللغة الفرنسية - الصف الأول",
+                  "description": "اللغة الفرنسية - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/اللغة الفرنسية/1910.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 25871846
+                }
+              ]
+            },
+            {
+              "id": "646",
+              "name": "نشاط اللغة الفرنسية",
+              "name_en": "نشاط اللغة الفرنسية",
+              "books": [
+                {
+                  "id": "m25-intermediate-g1-646-1912",
+                  "title": "نشاط اللغة الفرنسية - الصف الأول",
+                  "title_en": "نشاط اللغة الفرنسية - الصف الأول",
+                  "description": "نشاط اللغة الفرنسية - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-1/نشاط اللغة الفرنسية/1912.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 16730891
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-2",
+          "name": "الصف الثاني",
+          "name_en": "Grade 2",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاجتماعيات",
+              "name_en": "الاجتماعيات",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1829",
+                  "title": "الاجتماعيات - الصف الثاني",
+                  "title_en": "الاجتماعيات - الصف الثاني",
+                  "description": "الاجتماعيات - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/الاجتماعيات/1829.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 5383518
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1827",
+                  "title": "الاحياء - الصف الثاني",
+                  "title_en": "الاحياء - الصف الثاني",
+                  "description": "الاحياء - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/الاحياء/1827.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 4183840
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاخلاقية",
+              "name_en": "التربية الاخلاقية",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1833",
+                  "title": "التربية الاخلاقية - الصف الثاني",
+                  "title_en": "التربية الاخلاقية - الصف الثاني",
+                  "description": "التربية الاخلاقية - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/التربية الاخلاقية/1833.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 6978514
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1828",
+                  "title": "التربية الاسلامية - الصف الثاني",
+                  "title_en": "التربية الاسلامية - الصف الثاني",
+                  "description": "التربية الاسلامية - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/التربية الاسلامية/1828.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 10109751
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الحاسوب",
+              "name_en": "الحاسوب",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1836",
+                  "title": "الحاسوب - الصف الثاني",
+                  "title_en": "الحاسوب - الصف الثاني",
+                  "description": "الحاسوب - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/الحاسوب/1836.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 6931870
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1834",
+                  "title": "الرياضيات - الصف الثاني",
+                  "title_en": "الرياضيات - الصف الثاني",
+                  "description": "الرياضيات - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/الرياضيات/1834.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 9508710
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1835",
+                  "title": "الفيزياء - الصف الثاني",
+                  "title_en": "الفيزياء - الصف الثاني",
+                  "description": "الفيزياء - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/الفيزياء/1835.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 7035051
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1830",
+                  "title": "الكيمياء - الصف الثاني",
+                  "title_en": "الكيمياء - الصف الثاني",
+                  "description": "الكيمياء - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/الكيمياء/1830.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 5544772
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية ج1",
+              "name_en": "اللغة العربية ج1",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1831",
+                  "title": "اللغة العربية ج1 - الصف الثاني",
+                  "title_en": "اللغة العربية ج1 - الصف الثاني",
+                  "description": "اللغة العربية ج1 - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/اللغة العربية ج1/1831.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 6771316
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية ج2",
+              "name_en": "اللغة العربية ج2",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1832",
+                  "title": "اللغة العربية ج2 - الصف الثاني",
+                  "title_en": "اللغة العربية ج2 - الصف الثاني",
+                  "description": "اللغة العربية ج2 - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/اللغة العربية ج2/1832.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 8594305
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة الفرنسية",
+              "name_en": "اللغة الفرنسية",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-627-1911",
+                  "title": "اللغة الفرنسية - الصف الثاني",
+                  "title_en": "اللغة الفرنسية - الصف الثاني",
+                  "description": "اللغة الفرنسية - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/اللغة الفرنسية/1911.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 27747291
+                }
+              ]
+            },
+            {
+              "id": "646",
+              "name": "نشاط اللغة الفرنسية",
+              "name_en": "نشاط اللغة الفرنسية",
+              "books": [
+                {
+                  "id": "m25-intermediate-g2-646-1913",
+                  "title": "نشاط اللغة الفرنسية - الصف الثاني",
+                  "title_en": "نشاط اللغة الفرنسية - الصف الثاني",
+                  "description": "نشاط اللغة الفرنسية - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-2/نشاط اللغة الفرنسية/1913.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 25834800
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-3",
+          "name": "الصف الثالث",
+          "name_en": "Grade 3",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاجتماعيات",
+              "name_en": "الاجتماعيات",
+              "books": [
+                {
+                  "id": "m25-intermediate-g3-627-1781",
+                  "title": "الاجتماعيات - الصف الثالث",
+                  "title_en": "الاجتماعيات - الصف الثالث",
+                  "description": "الاجتماعيات - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-3/الاجتماعيات/1781.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 6011778
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-intermediate-g3-627-1782",
+                  "title": "الاحياء - الصف الثالث",
+                  "title_en": "الاحياء - الصف الثالث",
+                  "description": "الاحياء - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-3/الاحياء/1782.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2664553
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-intermediate-g3-627-1787",
+                  "title": "التربية الاسلامية - الصف الثالث",
+                  "title_en": "التربية الاسلامية - الصف الثالث",
+                  "description": "التربية الاسلامية - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-3/التربية الاسلامية/1787.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 3360146
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-intermediate-g3-627-1785",
+                  "title": "الرياضيات - الصف الثالث",
+                  "title_en": "الرياضيات - الصف الثالث",
+                  "description": "الرياضيات - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-3/الرياضيات/1785.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 11483816
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-intermediate-g3-627-1786",
+                  "title": "الفيزياء - الصف الثالث",
+                  "title_en": "الفيزياء - الصف الثالث",
+                  "description": "الفيزياء - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-3/الفيزياء/1786.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 3700145
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-intermediate-g3-627-1788",
+                  "title": "الكيمياء - الصف الثالث",
+                  "title_en": "الكيمياء - الصف الثالث",
+                  "description": "الكيمياء - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-3/الكيمياء/1788.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 6588014
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية ج1",
+              "name_en": "اللغة العربية ج1",
+              "books": [
+                {
+                  "id": "m25-intermediate-g3-627-1783",
+                  "title": "اللغة العربية ج1 - الصف الثالث",
+                  "title_en": "اللغة العربية ج1 - الصف الثالث",
+                  "description": "اللغة العربية ج1 - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-3/اللغة العربية ج1/1783.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 1782924
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية ج2",
+              "name_en": "اللغة العربية ج2",
+              "books": [
+                {
+                  "id": "m25-intermediate-g3-627-1784",
+                  "title": "اللغة العربية ج2 - الصف الثالث",
+                  "title_en": "اللغة العربية ج2 - الصف الثالث",
+                  "description": "اللغة العربية ج2 - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "intermediate/grade-3/اللغة العربية ج2/1784.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 1184688
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preparatory",
+      "name": "المرحلة الإعدادية",
+      "name_en": "Preparatory",
+      "grades": [
+        {
+          "id": "grade-4",
+          "name": "الصف الرابع",
+          "name_en": "Grade 4",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "اسس الجغرافية",
+              "name_en": "اسس الجغرافية",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-627-1825",
+                  "title": "اسس الجغرافية - الصف الرابع",
+                  "title_en": "اسس الجغرافية - الصف الرابع",
+                  "description": "اسس الجغرافية - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/اسس الجغرافية/1825.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 5168068
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-627-1812",
+                  "title": "الاحياء - الصف الرابع",
+                  "title_en": "الاحياء - الصف الرابع",
+                  "description": "الاحياء - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/الاحياء/1812.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 9861140
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التاريخ",
+              "name_en": "التاريخ",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-627-1816",
+                  "title": "التاريخ - الصف الرابع",
+                  "title_en": "التاريخ - الصف الرابع",
+                  "description": "التاريخ - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/التاريخ/1816.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 5147731
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-627-1824",
+                  "title": "التربية الاسلامية - الصف الرابع",
+                  "title_en": "التربية الاسلامية - الصف الرابع",
+                  "description": "التربية الاسلامية - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/التربية الاسلامية/1824.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 4114809
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الحاسوب",
+              "name_en": "الحاسوب",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-627-1818",
+                  "title": "الحاسوب - الصف الرابع",
+                  "title_en": "الحاسوب - الصف الرابع",
+                  "description": "الحاسوب - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/الحاسوب/1818.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 4724971
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-627-1819",
+                  "title": "الرياضيات - الصف الرابع",
+                  "title_en": "الرياضيات - الصف الرابع",
+                  "description": "الرياضيات - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/الرياضيات/1819.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 11514465
+                },
+                {
+                  "id": "m25-preparatory-g4-627-1820",
+                  "title": "الرياضيات - الصف الرابع",
+                  "title_en": "الرياضيات - الصف الرابع",
+                  "description": "الرياضيات - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/الرياضيات/1820.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 19530762
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-627-1822",
+                  "title": "الفيزياء - الصف الرابع",
+                  "title_en": "الفيزياء - الصف الرابع",
+                  "description": "الفيزياء - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/الفيزياء/1822.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 5722420
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-627-1823",
+                  "title": "الكيمياء - الصف الرابع",
+                  "title_en": "الكيمياء - الصف الرابع",
+                  "description": "الكيمياء - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/الكيمياء/1823.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 8970001
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية 1",
+              "name_en": "اللغة العربية 1",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-627-1814",
+                  "title": "اللغة العربية 1 - الصف الرابع",
+                  "title_en": "اللغة العربية 1 - الصف الرابع",
+                  "description": "اللغة العربية 1 - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/اللغة العربية 1/1814.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 3021993
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية2",
+              "name_en": "اللغة العربية2",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-627-1815",
+                  "title": "اللغة العربية2 - الصف الرابع",
+                  "title_en": "اللغة العربية2 - الصف الرابع",
+                  "description": "اللغة العربية2 - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/اللغة العربية2/1815.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 1740913
+                }
+              ]
+            },
+            {
+              "id": "62c",
+              "name": "جرائم حزب البعث",
+              "name_en": "جرائم حزب البعث",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-62c-1817",
+                  "title": "جرائم حزب البعث - الصف الرابع",
+                  "title_en": "جرائم حزب البعث - الصف الرابع",
+                  "description": "جرائم حزب البعث - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/جرائم حزب البعث/1817.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 5047639
+                }
+              ]
+            },
+            {
+              "id": "639",
+              "name": "علم الاجتماع",
+              "name_en": "علم الاجتماع",
+              "books": [
+                {
+                  "id": "m25-preparatory-g4-639-1821",
+                  "title": "علم الاجتماع - الصف الرابع",
+                  "title_en": "علم الاجتماع - الصف الرابع",
+                  "description": "علم الاجتماع - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-4/علم الاجتماع/1821.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 724535
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-5",
+          "name": "الصف الخامس",
+          "name_en": "Grade 5",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1808",
+                  "title": "الاحياء - الصف الخامس",
+                  "title_en": "الاحياء - الصف الخامس",
+                  "description": "الاحياء - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/الاحياء/1808.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 16440298
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الاقتصاد",
+              "name_en": "الاقتصاد",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1807",
+                  "title": "الاقتصاد - الصف الخامس",
+                  "title_en": "الاقتصاد - الصف الخامس",
+                  "description": "الاقتصاد - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/الاقتصاد/1807.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 3676783
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التاريخ",
+              "name_en": "التاريخ",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1804",
+                  "title": "التاريخ - الصف الخامس",
+                  "title_en": "التاريخ - الصف الخامس",
+                  "description": "التاريخ - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/التاريخ/1804.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2943505
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1800",
+                  "title": "التربية الاسلامية - الصف الخامس",
+                  "title_en": "التربية الاسلامية - الصف الخامس",
+                  "description": "التربية الاسلامية - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/التربية الاسلامية/1800.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 15099548
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الجغرافية",
+              "name_en": "الجغرافية",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1810",
+                  "title": "الجغرافية - الصف الخامس",
+                  "title_en": "الجغرافية - الصف الخامس",
+                  "description": "الجغرافية - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/الجغرافية/1810.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 4195402
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الحاسوب",
+              "name_en": "الحاسوب",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1803",
+                  "title": "الحاسوب - الصف الخامس",
+                  "title_en": "الحاسوب - الصف الخامس",
+                  "description": "الحاسوب - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/الحاسوب/1803.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 3637840
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1805",
+                  "title": "الرياضيات - الصف الخامس",
+                  "title_en": "الرياضيات - الصف الخامس",
+                  "description": "الرياضيات - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/الرياضيات/1805.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 4748650
+                },
+                {
+                  "id": "m25-preparatory-g5-627-1811",
+                  "title": "الرياضيات - الصف الخامس",
+                  "title_en": "الرياضيات - الصف الخامس",
+                  "description": "الرياضيات - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/الرياضيات/1811.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 9507628
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفلسفة وعلم النفس",
+              "name_en": "الفلسفة وعلم النفس",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1806",
+                  "title": "الفلسفة وعلم النفس - الصف الخامس",
+                  "title_en": "الفلسفة وعلم النفس - الصف الخامس",
+                  "description": "الفلسفة وعلم النفس - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/الفلسفة وعلم النفس/1806.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2389826
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1915",
+                  "title": "الفيزياء - الصف الخامس",
+                  "title_en": "الفيزياء - الصف الخامس",
+                  "description": "الفيزياء - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/الفيزياء/1915.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 25281210
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1826",
+                  "title": "الكيمياء - الصف الخامس",
+                  "title_en": "الكيمياء - الصف الخامس",
+                  "description": "الكيمياء - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/الكيمياء/1826.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 9610742
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية1",
+              "name_en": "اللغة العربية1",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1801",
+                  "title": "اللغة العربية1 - الصف الخامس",
+                  "title_en": "اللغة العربية1 - الصف الخامس",
+                  "description": "اللغة العربية1 - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/اللغة العربية1/1801.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2953753
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية2",
+              "name_en": "اللغة العربية2",
+              "books": [
+                {
+                  "id": "m25-preparatory-g5-627-1802",
+                  "title": "اللغة العربية2 - الصف الخامس",
+                  "title_en": "اللغة العربية2 - الصف الخامس",
+                  "description": "اللغة العربية2 - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-5/اللغة العربية2/1802.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2436710
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-6",
+          "name": "الصف السادس",
+          "name_en": "Grade 6",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-preparatory-g6-627-1799",
+                  "title": "الاحياء - الصف السادس",
+                  "title_en": "الاحياء - الصف السادس",
+                  "description": "الاحياء - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/الاحياء/1799.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 16440298
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الاقتصاد",
+              "name_en": "الاقتصاد",
+              "books": [
+                {
+                  "id": "m25-preparatory-g6-627-1792",
+                  "title": "الاقتصاد - الصف السادس",
+                  "title_en": "الاقتصاد - الصف السادس",
+                  "description": "الاقتصاد - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/الاقتصاد/1792.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 1427367
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التاريخ",
+              "name_en": "التاريخ",
+              "books": [
+                {
+                  "id": "m25-preparatory-g6-627-1793",
+                  "title": "التاريخ - الصف السادس",
+                  "title_en": "التاريخ - الصف السادس",
+                  "description": "التاريخ - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/التاريخ/1793.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 3046673
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "التربية الاسلامية",
+              "name_en": "التربية الاسلامية",
+              "books": [
+                {
+                  "id": "m25-preparatory-g6-627-1789",
+                  "title": "التربية الاسلامية - الصف السادس",
+                  "title_en": "التربية الاسلامية - الصف السادس",
+                  "description": "التربية الاسلامية - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/التربية الاسلامية/1789.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 7529763
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الجغرافية",
+              "name_en": "الجغرافية",
+              "books": [
+                {
+                  "id": "m25-preparatory-g6-627-1794",
+                  "title": "الجغرافية - الصف السادس",
+                  "title_en": "الجغرافية - الصف السادس",
+                  "description": "الجغرافية - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/الجغرافية/1794.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2331193
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-preparatory-g6-627-1795",
+                  "title": "الرياضيات - الصف السادس",
+                  "title_en": "الرياضيات - الصف السادس",
+                  "description": "الرياضيات - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/الرياضيات/1795.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 2845189
+                },
+                {
+                  "id": "m25-preparatory-g6-627-1796",
+                  "title": "الرياضيات - الصف السادس",
+                  "title_en": "الرياضيات - الصف السادس",
+                  "description": "الرياضيات - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/الرياضيات/1796.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 9075281
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-preparatory-g6-627-1797",
+                  "title": "الفيزياء - الصف السادس",
+                  "title_en": "الفيزياء - الصف السادس",
+                  "description": "الفيزياء - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/الفيزياء/1797.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 17549442
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-preparatory-g6-627-1798",
+                  "title": "الكيمياء - الصف السادس",
+                  "title_en": "الكيمياء - الصف السادس",
+                  "description": "الكيمياء - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/الكيمياء/1798.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 17127575
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية1",
+              "name_en": "اللغة العربية1",
+              "books": [
+                {
+                  "id": "m25-preparatory-g6-627-1790",
+                  "title": "اللغة العربية1 - الصف السادس",
+                  "title_en": "اللغة العربية1 - الصف السادس",
+                  "description": "اللغة العربية1 - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/اللغة العربية1/1790.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 17031966
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "اللغة العربية2",
+              "name_en": "اللغة العربية2",
+              "books": [
+                {
+                  "id": "m25-preparatory-g6-627-1791",
+                  "title": "اللغة العربية2 - الصف السادس",
+                  "title_en": "اللغة العربية2 - الصف السادس",
+                  "description": "اللغة العربية2 - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "preparatory/grade-6/اللغة العربية2/1791.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 17057772
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "distinguished",
+      "name": "المرحلة المميزة",
+      "name_en": "Distinguished",
+      "grades": [
+        {
+          "id": "grade-1",
+          "name": "الصف الأول",
+          "name_en": "Grade 1",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g1-627-1883",
+                  "title": "الاحياء - الصف الأول",
+                  "title_en": "الاحياء - الصف الأول",
+                  "description": "الاحياء - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-1/الاحياء/1883.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 9295967
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-distinguished-g1-627-1885",
+                  "title": "الرياضيات - الصف الأول",
+                  "title_en": "الرياضيات - الصف الأول",
+                  "description": "الرياضيات - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-1/الرياضيات/1885.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 10781948
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g1-627-1886",
+                  "title": "الفيزياء - الصف الأول",
+                  "title_en": "الفيزياء - الصف الأول",
+                  "description": "الفيزياء - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-1/الفيزياء/1886.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 10682157
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g1-627-1884",
+                  "title": "الكيمياء - الصف الأول",
+                  "title_en": "الكيمياء - الصف الأول",
+                  "description": "الكيمياء - الصف الأول",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-1/الكيمياء/1884.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 15619862
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-2",
+          "name": "الصف الثاني",
+          "name_en": "Grade 2",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g2-627-1887",
+                  "title": "الاحياء - الصف الثاني",
+                  "title_en": "الاحياء - الصف الثاني",
+                  "description": "الاحياء - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-2/الاحياء/1887.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 14094511
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-distinguished-g2-627-1888",
+                  "title": "الرياضيات - الصف الثاني",
+                  "title_en": "الرياضيات - الصف الثاني",
+                  "description": "الرياضيات - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-2/الرياضيات/1888.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 13590048
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g2-627-1890",
+                  "title": "الفيزياء - الصف الثاني",
+                  "title_en": "الفيزياء - الصف الثاني",
+                  "description": "الفيزياء - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-2/الفيزياء/1890.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 17316318
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g2-627-1889",
+                  "title": "الكيمياء - الصف الثاني",
+                  "title_en": "الكيمياء - الصف الثاني",
+                  "description": "الكيمياء - الصف الثاني",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-2/الكيمياء/1889.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 23537904
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-3",
+          "name": "الصف الثالث",
+          "name_en": "Grade 3",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g3-627-1893",
+                  "title": "الاحياء - الصف الثالث",
+                  "title_en": "الاحياء - الصف الثالث",
+                  "description": "الاحياء - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-3/الاحياء/1893.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 20530886
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-distinguished-g3-627-1892",
+                  "title": "الرياضيات - الصف الثالث",
+                  "title_en": "الرياضيات - الصف الثالث",
+                  "description": "الرياضيات - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-3/الرياضيات/1892.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 8460874
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g3-627-1894",
+                  "title": "الفيزياء - الصف الثالث",
+                  "title_en": "الفيزياء - الصف الثالث",
+                  "description": "الفيزياء - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-3/الفيزياء/1894.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 10263775
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g3-627-1891",
+                  "title": "الكيمياء - الصف الثالث",
+                  "title_en": "الكيمياء - الصف الثالث",
+                  "description": "الكيمياء - الصف الثالث",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-3/الكيمياء/1891.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 23535094
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-4",
+          "name": "الصف الرابع",
+          "name_en": "Grade 4",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g4-627-1895",
+                  "title": "الاحياء - الصف الرابع",
+                  "title_en": "الاحياء - الصف الرابع",
+                  "description": "الاحياء - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-4/الاحياء/1895.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 6700159
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-distinguished-g4-627-1896",
+                  "title": "الرياضيات - الصف الرابع",
+                  "title_en": "الرياضيات - الصف الرابع",
+                  "description": "الرياضيات - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-4/الرياضيات/1896.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 19874221
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g4-627-1897",
+                  "title": "الفيزياء - الصف الرابع",
+                  "title_en": "الفيزياء - الصف الرابع",
+                  "description": "الفيزياء - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-4/الفيزياء/1897.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 11720644
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g4-627-1898",
+                  "title": "الكيمياء - الصف الرابع",
+                  "title_en": "الكيمياء - الصف الرابع",
+                  "description": "الكيمياء - الصف الرابع",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-4/الكيمياء/1898.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 9245299
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-5",
+          "name": "الصف الخامس",
+          "name_en": "Grade 5",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g5-627-1899",
+                  "title": "الاحياء - الصف الخامس",
+                  "title_en": "الاحياء - الصف الخامس",
+                  "description": "الاحياء - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-5/الاحياء/1899.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 8690541
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-distinguished-g5-627-1900",
+                  "title": "الرياضيات - الصف الخامس",
+                  "title_en": "الرياضيات - الصف الخامس",
+                  "description": "الرياضيات - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-5/الرياضيات/1900.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 17529007
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g5-627-1901",
+                  "title": "الفيزياء - الصف الخامس",
+                  "title_en": "الفيزياء - الصف الخامس",
+                  "description": "الفيزياء - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-5/الفيزياء/1901.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 21773912
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g5-627-1902",
+                  "title": "الكيمياء - الصف الخامس",
+                  "title_en": "الكيمياء - الصف الخامس",
+                  "description": "الكيمياء - الصف الخامس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-5/الكيمياء/1902.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 10152462
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grade-6",
+          "name": "الصف السادس",
+          "name_en": "Grade 6",
+          "subjects": [
+            {
+              "id": "627",
+              "name": "الاحياء",
+              "name_en": "الاحياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g6-627-1903",
+                  "title": "الاحياء - الصف السادس",
+                  "title_en": "الاحياء - الصف السادس",
+                  "description": "الاحياء - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-6/الاحياء/1903.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 22141704
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الرياضيات",
+              "name_en": "الرياضيات",
+              "books": [
+                {
+                  "id": "m25-distinguished-g6-627-1905",
+                  "title": "الرياضيات - الصف السادس",
+                  "title_en": "الرياضيات - الصف السادس",
+                  "description": "الرياضيات - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-6/الرياضيات/1905.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 7115396
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الفيزياء",
+              "name_en": "الفيزياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g6-627-1906",
+                  "title": "الفيزياء - الصف السادس",
+                  "title_en": "الفيزياء - الصف السادس",
+                  "description": "الفيزياء - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-6/الفيزياء/1906.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 4630027
+                }
+              ]
+            },
+            {
+              "id": "627",
+              "name": "الكيمياء",
+              "name_en": "الكيمياء",
+              "books": [
+                {
+                  "id": "m25-distinguished-g6-627-1904",
+                  "title": "الكيمياء - الصف السادس",
+                  "title_en": "الكيمياء - الصف السادس",
+                  "description": "الكيمياء - الصف السادس",
+                  "authors": [
+                    "وزارة التربية العراقية"
+                  ],
+                  "publisher": "وزارة التربية",
+                  "year": 2025,
+                  "edition": 1,
+                  "pages": 0,
+                  "isbn": "",
+                  "cover_url": "",
+                  "pdf_url": "",
+                  "r2_key": "distinguished/grade-6/الكيمياء/1904.pdf",
+                  "metadata_url": "",
+                  "size_bytes": 13421260
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

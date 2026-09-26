@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updated_at": "2026-08-21T17:15:01.873305Z",
+  "version": 8,
+  "updated_at": "2026-09-26T20:56:41Z",
   "stages": [
     {
       "id": "kindergarten",
@@ -3796,6 +3796,1556 @@
                   "r2_key": "distinguished/grade-6/الكيمياء/1904.pdf",
                   "metadata_url": "",
                   "size_bytes": 13421260
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocational",
+      "name": "التعليم المهني",
+      "name_en": "Vocational Education",
+      "branches": [
+        {
+          "id": "industrial",
+          "name": "الفرع الصناعي",
+          "name_en": "Industrial Branch",
+          "grades": [
+            {
+              "id": "grade-1",
+              "name": "الصف الأول المهني",
+              "name_en": "Vocational Grade 1",
+              "subjects": [
+                {
+                  "id": "التدريب_العملي",
+                  "name": "التدريب العملي",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-industrial-g1-1",
+                      "title": "كتاب التدريب العملي للصف الأول",
+                      "title_en": "",
+                      "description": "قسم تكرير النفط ومعالجة الغاز",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1AzzE2rFXzYO-1CwDTlZcCuZlVgXEC58M"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-2",
+                      "title": "كتاب التدريب العملي للصف الأول",
+                      "title_en": "",
+                      "description": "قسم صيانة الأجهزة الطبية",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1YRfU9UJFJTurvppElQaA4DlY-b0Xwsk2"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-3",
+                      "title": "كتاب التدريب العملي للصف الأول",
+                      "title_en": "",
+                      "description": "قسم الكهرباء",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1H8R4jXXfBQbjb0pVGC_lX47TVCGXGzrr"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-4",
+                      "title": "كتاب التدريب العملي للصف الأول",
+                      "title_en": "",
+                      "description": "قسم الميكانيك",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1hVLgxlKop1rx4J3Pm-SgUcEuiyxC3dHw"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-5",
+                      "title": "كتاب التدريب العملي للصف الأول",
+                      "title_en": "",
+                      "description": "قسم السيارات",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1YxGdw8qMyPyOhNXOSTq6ijjolXvcpihE"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-6",
+                      "title": "كتاب التدريب العملي للصف الأول",
+                      "title_en": "",
+                      "description": "قسم تكييف الهواء والتثليج",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1UUXjigBNqdS-bx_C-Dyiu9tgoO6S-G8x"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-7",
+                      "title": "كتاب التدريب العملي للصف الأول",
+                      "title_en": "",
+                      "description": "قسم اللحام وتشكيل المعادن",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=19OSspSidd_fmqKqqoBvwhsDLXoHt_7JJ"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-8",
+                      "title": "كتاب التدريب العملي للصف الأول",
+                      "title_en": "",
+                      "description": "قسم النجارة",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1dcnY2WO6ii5CRS50AgzGhyJsMOq_JZAe"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "الرسم_الصناعي",
+                  "name": "الرسم الصناعي",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-industrial-g1-9",
+                      "title": "كتاب الرسم الصناعي للصف الأول",
+                      "title_en": "",
+                      "description": "مشترك: تكرير النفط ومعالجة الغاز, صيانة الأجهزة الطبية, الكهرباء, الميكانيك, السيارات, تكييف الهواء والتثليج, اللحام وتشكيل المعادن, النجارة",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1BHFok0G1vgdeE6BmVDOyUNR79oPS4ohO"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "العلوم_الصناعية",
+                  "name": "العلوم الصناعية",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-industrial-g1-10",
+                      "title": "كتاب العلوم الصناعية للصف الأول",
+                      "title_en": "",
+                      "description": "قسم تكرير النفط ومعالجة الغاز",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1uEwjDMsmV2zcJ8TlAxuXHQnPBBs5SJRB"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-11",
+                      "title": "كتاب العلوم الصناعية للصف الأول",
+                      "title_en": "",
+                      "description": "قسم صيانة الأجهزة الطبية",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1sqoWRupHrHS1mehTyclzR91BqCopo2Zo"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-12",
+                      "title": "كتاب العلوم الصناعية للصف الأول",
+                      "title_en": "",
+                      "description": "قسم الكهرباء",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1Zlm4tJrodORL8zAVPOctETfNmq7aHL15"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-13",
+                      "title": "كتاب العلوم الصناعية للصف الأول",
+                      "title_en": "",
+                      "description": "قسم الميكانيك",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1gOSCX4Ja4gSSc0USVZmAxgvHw0YppHIg"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-14",
+                      "title": "كتاب العلوم الصناعية للصف الأول",
+                      "title_en": "",
+                      "description": "قسم الميكانيك",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1QjmwV9tARtJsDUCH_GDBpIJXBO0oNzje"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-15",
+                      "title": "كتاب العلوم الصناعية للصف الأول",
+                      "title_en": "",
+                      "description": "قسم السيارات",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1tZilGNlyAmqTJDxFvQdRQvGCLR5NXYdP"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-16",
+                      "title": "كتاب العلوم الصناعية للصف الأول",
+                      "title_en": "",
+                      "description": "قسم تكييف الهواء والتثليج",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1HBj52cQP4Q3IpjTnZh7dImuXkarjR5gu"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g1-17",
+                      "title": "كتاب العلوم الصناعية للصف الأول",
+                      "title_en": "",
+                      "description": "قسم اللحام وتشكيل المعادن",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=184oP7cMDrZ3LqCnyg1TaW155Hb2DZyQA"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "grade-2",
+              "name": "الصف الثاني المهني",
+              "name_en": "Vocational Grade 2",
+              "subjects": [
+                {
+                  "id": "التدريب_العملي",
+                  "name": "التدريب العملي",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-industrial-g2-19",
+                      "title": "كتاب التدريب العملي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم تكرير النفط ومعالجة الغاز",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1O3gEL66EkPcQ06TaxLEgfp9a-chjtmg9"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-20",
+                      "title": "كتاب التدريب العملي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم صيانة الأجهزة الطبية",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1hOiVzf8_xdNXql8Gk15fJqdBEjpwVeRt"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-21",
+                      "title": "كتاب التدريب العملي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم الكهرباء",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1xCbmwEWb-UnEzbNu95cGI53ufZaWrTPS"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-22",
+                      "title": "كتاب التدريب العملي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم الميكانيك",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1LTxZcs0GNhp2PorjKMifwCxNvrmxICEf"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-23",
+                      "title": "كتاب التدريب العملي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم السيارات",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1zHxnxQZvJlFV5NveYyjSyQLNjZTaOehH"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-24",
+                      "title": "كتاب التدريب العملي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم تكييف الهواء والتثليج",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=12FKYTQnUkDLYq7RVj6vS2dl94xzD44Rl"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-25",
+                      "title": "كتاب التدريب العملي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم اللحام وتشكيل المعادن",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1LTIloKJX0EOM-ooT9EWkac6dGwCsnJVk"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-26",
+                      "title": "كتاب التدريب العملي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم النجارة",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1CWHcLPaJ1bDB5-unvKdv20qotU3ZBoMl"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "الرسم_الصناعي",
+                  "name": "الرسم الصناعي",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-industrial-g2-27",
+                      "title": "كتاب الرسم الصناعي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم تكرير النفط ومعالجة الغاز",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1LBN_GiZXDeV6Z24y8DbeLLD9KdzhcmmD"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-28",
+                      "title": "كتاب الرسم الصناعي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم صيانة الأجهزة الطبية",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1wC_2Bg_4BaD7YRnf7lLWUb15R0Hmo4ca"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-29",
+                      "title": "كتاب الرسم الصناعي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم الكهرباء",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=18h_c7L3CTE9pJksIgQu9geb6oWlYz1Ev"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-30",
+                      "title": "كتاب الرسم الصناعي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم الميكانيك",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1h9ECPv5Yv6u8MtsdyMa63_CjgFItB-fP"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-31",
+                      "title": "كتاب الرسم الصناعي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم السيارات",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1fthdnwH1Rwg1mrA9rx2daEHO6yagX8Px"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-32",
+                      "title": "كتاب الرسم الصناعي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم تكييف الهواء والتثليج",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1NrjdOClcadZdwRDBf_fegE6X_vIiH5C9"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-33",
+                      "title": "كتاب الرسم الصناعي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم اللحام وتشكيل المعادن",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=10UbZ-AN4VD8-vEZJ99kX92o0SDk2oviv"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-34",
+                      "title": "كتاب الرسم الصناعي للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم النجارة",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1l5y7ww-mNLA19TfnEC90rCLIuwPq-jOW"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "العلوم_الصناعية",
+                  "name": "العلوم الصناعية",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-industrial-g2-35",
+                      "title": "كتاب العلوم الصناعية للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم تكرير النفط ومعالجة الغاز",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1p8flK9VMhvdsugBer4xVNhkLMQsYGVt5"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-36",
+                      "title": "كتاب العلوم الصناعية للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم صيانة الأجهزة الطبية",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1JrrSescoLdpuAz7DgihiXq6h7AqUYwmA"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-37",
+                      "title": "كتاب العلوم الصناعية للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم الكهرباء",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1e9WNK1YCiqCRqIVshx2GPa-d8Z-g5iW2"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-38",
+                      "title": "كتاب العلوم الصناعية للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم الميكانيك",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1gXopdFyJ9EdXSt59-VB8_jaTTeoVKtD9"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-39",
+                      "title": "كتاب العلوم الصناعية للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم السيارات",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1pdgEHbZxj-ctz-1mDkNbd5GzJ6AVXl71"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-40",
+                      "title": "كتاب العلوم الصناعية للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم تكييف الهواء والتثليج",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1umjrhvYG7r2GRLYK4N56cZjclOSVoRsj"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-41",
+                      "title": "كتاب العلوم الصناعية للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم اللحام وتشكيل المعادن",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1FHvbOLSHXuMTmQLc_k7CJCsowxAF4TrQ"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g2-42",
+                      "title": "كتاب العلوم الصناعية للصف الثاني",
+                      "title_en": "",
+                      "description": "قسم النجارة",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1D5YW70UAdbl9akJ-8HNZHCT1ZgauTs9N"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "grade-3",
+              "name": "الصف الثالث المهني",
+              "name_en": "Vocational Grade 3",
+              "subjects": [
+                {
+                  "id": "التدريب_العملي",
+                  "name": "التدريب العملي",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-industrial-g3-43",
+                      "title": "كتاب التدريب العملي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم تكرير النفط ومعالجة الغاز",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1T6hgggv6WEZQDWIRV83dEVX2tXtszwN_"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-44",
+                      "title": "كتاب التدريب العملي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم صيانة الأجهزة الطبية",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1Ow3YnE2Aqn_3PCwutHxLWjXRVS-m-RMa"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-45",
+                      "title": "كتاب التدريب العملي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم الكهرباء",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1x-ki1twrhFWjLe_fjrQ0OBA6hIOOvHEp"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-46",
+                      "title": "كتاب التدريب العملي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم الميكانيك",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1zXXHxmadInoXYh97jdw0SGOYps878Fvn"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-47",
+                      "title": "كتاب التدريب العملي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم السيارات",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1GrE4OMifb5JgyWUCx-S6q1NCGgabjUuq"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-48",
+                      "title": "كتاب التدريب العملي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم تكييف الهواء والتثليج",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1PGBoYM59h9O-f96xRmem6RBLIvKWA3wu"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-49",
+                      "title": "كتاب التدريب العملي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم اللحام وتشكيل المعادن",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1pKSXjRpJ2FclElvbPRgZRwn45z_SNIOJ"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-50",
+                      "title": "كتاب التدريب العملي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم النجارة",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1HzCyugFYD1AxGJPazNBYgt-Vgn2kpGyo"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "الرسم_الصناعي",
+                  "name": "الرسم الصناعي",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-industrial-g3-51",
+                      "title": "كتاب الرسم الصناعي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم تكرير النفط ومعالجة الغاز",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1X_Sv5bPrvG4SLjz3bGGo5z8YT5AXvSsT"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-52",
+                      "title": "كتاب الرسم الصناعي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم صيانة الأجهزة الطبية",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1a2NdLYqb23AfLvM4JkbIe-0gPFK7EEu0"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-53",
+                      "title": "كتاب الرسم الصناعي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم الكهرباء",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1TKlo5uz0U-GqOKlhmAKvrvv8Qdcl2uua"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-54",
+                      "title": "كتاب الرسم الصناعي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم الميكانيك",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1gOSCX4Ja4gSSc0USVZmAxgvHw0YppHIg"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-55",
+                      "title": "كتاب الرسم الصناعي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم السيارات",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=17GYmU1XX4KRALjBbAyO4I7MpZvRgMpbi"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-56",
+                      "title": "كتاب الرسم الصناعي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم اللحام وتشكيل المعادن",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=10vwTXHGsyzcJhjFNb5rgkgK7HnefpgYa"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-57",
+                      "title": "كتاب الرسم الصناعي للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم النجارة",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1kGkquWVxAT3oKZQxFj9zD_EBIo2d2bC0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "العلوم_الصناعية",
+                  "name": "العلوم الصناعية",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-industrial-g3-59",
+                      "title": "كتاب العلوم الصناعية للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم تكرير النفط ومعالجة الغاز",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1o9HE6epHIsjbFZcrVM_9T21opO1_gEb9"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-60",
+                      "title": "كتاب العلوم الصناعية للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم صيانة الأجهزة الطبية",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1eXfsm-BTMqe6cuWpYkrgPaivGf8oUBIc"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-61",
+                      "title": "كتاب العلوم الصناعية للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم الكهرباء",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1jI6n85ddgUMJC6pV5msCu30p3ZWJfloO"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-62",
+                      "title": "كتاب العلوم الصناعية للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم الميكانيك",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=10yuNKJEJsG6q__8pphIHec7zo9h0T638"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-63",
+                      "title": "كتاب العلوم الصناعية للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم السيارات",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1ZRJQj2_Drs5vvIc33HvxqRUuTCy8zVy-"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-64",
+                      "title": "كتاب العلوم الصناعية للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم تكييف الهواء والتثليج",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1rBbUzC7NqEPocLG_mSVKn6c0nr4eS1oX"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-65",
+                      "title": "كتاب العلوم الصناعية للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم اللحام وتشكيل المعادن",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=15mLCXC4ZFwHH4yCeIDamDP1aADv43ejc"
+                      ]
+                    },
+                    {
+                      "id": "voc-industrial-g3-66",
+                      "title": "كتاب العلوم الصناعية للصف الثالث",
+                      "title_en": "",
+                      "description": "قسم النجارة",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1S4YmZ10prOwS7xDFdyZsGIS3DzFtPdBG"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "theoretical",
+          "name": "المواد النظرية العامة",
+          "name_en": "General Theory Subjects",
+          "grades": [
+            {
+              "id": "grade-1",
+              "name": "الصف الأول المهني",
+              "name_en": "Vocational Grade 1",
+              "subjects": [
+                {
+                  "id": "الرياضيات",
+                  "name": "الرياضيات",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g1-1",
+                      "title": "كتاب الرياضيات للصف الأول المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/11math.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "الطبيعيات",
+                  "name": "الطبيعيات",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g1-2",
+                      "title": "كتاب الطبيعيات للصف الأول المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/1t.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "اللغة_الإنكليزية",
+                  "name": "اللغة الإنكليزية",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g1-3",
+                      "title": "كتاب اللغة الإنكليزية للصف الأول المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/1men.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "اللغة_العربية",
+                  "name": "اللغة العربية",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g1-4",
+                      "title": "كتاب اللغة العربية للصف الأول المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/1ar-1.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "تطبيقات_الحاسوب",
+                  "name": "تطبيقات الحاسوب",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g1-5",
+                      "title": "كتاب تطبيقات الحاسوب للصف الأول المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2026/09/capp1.pdf"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "grade-2",
+              "name": "الصف الثاني المهني",
+              "name_en": "Vocational Grade 2",
+              "subjects": [
+                {
+                  "id": "الرياضيات",
+                  "name": "الرياضيات",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g2-6",
+                      "title": "كتاب الرياضيات للصف الثاني المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/12math.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "الطبيعيات",
+                  "name": "الطبيعيات",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g2-7",
+                      "title": "كتاب الطبيعيات للصف الثاني المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/2t.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "اللغة_الإنكليزية",
+                  "name": "اللغة الإنكليزية",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g2-8",
+                      "title": "كتاب اللغة الإنكليزية للصف الثاني المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/2men.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "اللغة_العربية",
+                  "name": "اللغة العربية",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g2-9",
+                      "title": "كتاب اللغة العربية للصف الثاني المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/2ar.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "تطبيقات_الحاسوب",
+                  "name": "تطبيقات الحاسوب",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g2-10",
+                      "title": "كتاب تطبيقات الحاسوب للصف الثاني المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2026/09/capp2.pdf"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "grade-3",
+              "name": "الصف الثالث المهني",
+              "name_en": "Vocational Grade 3",
+              "subjects": [
+                {
+                  "id": "الرياضيات",
+                  "name": "الرياضيات",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g3-11",
+                      "title": "كتاب الرياضيات للصف الثالث المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/3math.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "الطبيعيات",
+                  "name": "الطبيعيات",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g3-12",
+                      "title": "كتاب الطبيعيات للصف الثالث المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/3t.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "اللغة_الإنكليزية",
+                  "name": "اللغة الإنكليزية",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g3-13",
+                      "title": "كتاب اللغة الإنكليزية للصف الثالث المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/13en.pdf"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "اللغة_العربية",
+                  "name": "اللغة العربية",
+                  "name_en": "",
+                  "books": [
+                    {
+                      "id": "voc-theoretical-g3-14",
+                      "title": "كتاب اللغة العربية للصف الثالث المهني",
+                      "title_en": "",
+                      "description": "",
+                      "authors": [],
+                      "publisher": "senaatdiwaniya.com",
+                      "year": 2026,
+                      "pages": 0,
+                      "cover_url": "",
+                      "pdf_url": "",
+                      "metadata_url": "",
+                      "size_bytes": 0,
+                      "download_urls": [
+                        "https://senaatdiwaniya.com/wp-content/uploads/2024/07/3ar.pdf"
+                      ]
+                    }
+                  ]
                 }
               ]
             }

@@ -6754,6 +6754,25 @@
                       "download_urls": [
                         "https://drive.google.com/uc?export=download&id=1lkHF6K_jJaj6T-tHf_VYTSNeP8PVgs7X"
                       ]
+                    },
+                    {
+                      "id": "voc-computer-cybersec-g3-08",
+                      "title": "الأمن السيبراني - الثالث المهني",
+                      "title_en": "Cybersecurity - Vocational Year 3",
+                      "description": "ملزمة الأمن السيبراني للمرحلة الثالثة — فرع الحاسوب وتقنية المعلومات (الذكاء الاصطناعي)، التعليم المهني",
+                      "authors": [
+                        "المديرية العامة للتعليم المهني"
+                      ],
+                      "publisher": "وزارة التربية",
+                      "year": 2024,
+                      "pages": 92,
+                      "cover_url": "",
+                      "pdf_url": "https://drive.google.com/uc?export=download&id=1kLiowQuVcjAXit0iCx6p6dDC-y8j13F4",
+                      "metadata_url": "",
+                      "size_bytes": 3603230,
+                      "download_urls": [
+                        "https://drive.google.com/uc?export=download&id=1kLiowQuVcjAXit0iCx6p6dDC-y8j13F4"
+                      ]
                     }
                   ]
                 }

@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 14,
   "updated_at": "2026-09-28T17:48:51Z",
   "stages": [
     {
@@ -6757,8 +6757,8 @@
                     },
                     {
                       "id": "voc-computer-cybersec-g3-08",
-                      "title": "الأمن السيبراني - الثالث المهني",
-                      "title_en": "Cybersecurity - Vocational Year 3",
+                      "title": "الذكاء الاصطناعي في الأمن السيبراني",
+                      "title_en": "Artificial Intelligence in Cybersecurity",
                       "description": "ملزمة الأمن السيبراني للمرحلة الثالثة — فرع الحاسوب وتقنية المعلومات (الذكاء الاصطناعي)، التعليم المهني",
                       "authors": [
                         "المديرية العامة للتعليم المهني"

@@ -1,0 +1,30 @@
+{
+  "fast": [
+    {
+      "name": "ara.traineddata",
+      "bytes": 1432056,
+      "sha256": "e3206d3dc87fd50c24a0fb9f01838615911d25168f4e64415244b67d2bb3e729",
+      "url": "https://github.com/tesseract-ocr/tessdata_fast/raw/main/ara.traineddata"
+    },
+    {
+      "name": "eng.traineddata",
+      "bytes": 4113088,
+      "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2",
+      "url": "https://github.com/tesseract-ocr/tessdata_fast/raw/main/eng.traineddata"
+    }
+  ],
+  "best": [
+    {
+      "name": "ara.traineddata",
+      "bytes": 12603724,
+      "sha256": "ab9d157d8e38ca00e7e39c7d5363a5239e053f5b0dbdb3167dde9d8124335896",
+      "url": "https://github.com/tesseract-ocr/tessdata_best/raw/main/ara.traineddata"
+    },
+    {
+      "name": "eng.traineddata",
+      "bytes": 15400601,
+      "sha256": "8280aed0782fe27257a68ea10fe7ef324ca0f8d85bd2fd145d1c2b560bcb66ba",
+      "url": "https://github.com/tesseract-ocr/tessdata_best/raw/main/eng.traineddata"
+    }
+  ]
+}
